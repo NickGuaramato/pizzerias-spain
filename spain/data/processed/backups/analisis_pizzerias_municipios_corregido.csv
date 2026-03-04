@@ -1,0 +1,1572 @@
+NAMEUNIT,num_pizzerias,municipio_norm,POB25,PROVINCIA,CPRO,CMUN,pizzerias_100k_hab
+A Arnoia,1,a arnoia,,,,,
+A Coruña,412,a coruna,,,,,
+A Fonsagrada,10,a fonsagrada,,,,,
+A Gudiña,8,a gudina,,,,,
+A Merca,1,a merca,,,,,
+A Mezquita,3,a mezquita,,,,,
+A Peroxa,4,a peroxa,,,,,
+A Pobra de Trives,3,a pobra de trives,,,,,
+A Pobra do Brollón,2,a pobra do brollon,,,,,
+A Pontenova,1,a pontenova,,,,,
+A Rúa,4,a rua,,,,,
+A Teixeira,3,a teixeira,,,,,
+A Veiga,2,a veiga,,,,,
+Abadiño,5,abadino,7768.0,Bizkaia,48.0,1.0,64.36663233779609
+Abadín,2,abadin,2239.0,Lugo,27.0,1.0,89.32559178204555
+Abaltzisketa,4,abaltzisketa,321.0,Gipuzkoa,20.0,1.0,1246.105919003115
+Abanto y Ciérvana-Abanto Zierbena,3,abanto y ciervana-abanto zierbena,9379.0,Bizkaia,48.0,2.0,31.986352489604435
+Abizanda,3,abizanda,162.0,Huesca,22.0,2.0,1851.851851851852
+Ablanque,1,ablanque,70.0,Guadalajara,19.0,2.0,1428.571428571429
+Abárzuza/Abartzuza,2,abarzuza/abartzuza,510.0,Navarra,31.0,2.0,392.156862745098
+Acebedo,1,acebedo,181.0,León,24.0,1.0,552.4861878453039
+Aduna,7,aduna,500.0,Gipuzkoa,20.0,2.0,1400.0
+Agoncillo,2,agoncillo,1464.0,"Rioja, La",26.0,2.0,136.6120218579235
+Agudo,1,agudo,1605.0,Ciudad Real,13.0,2.0,62.30529595015577
+Aguilar de Campoo,22,aguilar de campoo,6916.0,Palencia,34.0,4.0,318.10294968189703
+Agurain/Salvatierra,3,agurain/salvatierra,5189.0,Araba/Álava,1.0,51.0,57.8146078242436
+Aia,9,aia,2148.0,Gipuzkoa,20.0,16.0,418.9944134078213
+Aibar/Oibar,1,aibar/oibar,754.0,Navarra,31.0,9.0,132.6259946949602
+Aisa,5,aisa,326.0,Huesca,22.0,6.0,1533.7423312883436
+Ajangiz,1,ajangiz,458.0,Bizkaia,48.0,911.0,218.3406113537118
+Alacant/Alicante,427,alacant/alicante,366221.0,Alicante/Alacant,3.0,14.0,116.5962629122852
+Alaior,21,alaior,10217.0,"Balears, Illes",7.0,2.0,205.53978663012623
+Alamillo,1,alamillo,450.0,Ciudad Real,13.0,3.0,222.22222222222223
+Alar del Rey,2,alar del rey,910.0,Palencia,34.0,5.0,219.78021978021977
+Alaró,14,alaro,6121.0,"Balears, Illes",7.0,1.0,228.7207972553504
+Albacete,149,albacete,175400.0,Albacete,2.0,3.0,84.94868871151654
+Albalate de Cinca,1,albalate de cinca,1080.0,Huesca,22.0,7.0,92.59259259259258
+Albalate de Zorita,2,albalate de zorita,1148.0,Guadalajara,19.0,6.0,174.21602787456445
+Albalate del Arzobispo,3,albalate del arzobispo,1936.0,Teruel,44.0,8.0,154.95867768595042
+Albarracín,19,albarracin,998.0,Teruel,44.0,9.0,1903.807615230461
+Albelda de Iregua,5,albelda de iregua,3930.0,"Rioja, La",26.0,5.0,127.22646310432567
+Albentosa,2,albentosa,290.0,Teruel,44.0,10.0,689.6551724137931
+Albiztur,4,albiztur,328.0,Gipuzkoa,20.0,4.0,1219.5121951219512
+Alcalà de Xivert,52,alcala de xivert,7349.0,Castellón/Castelló,12.0,4.0,707.5792624846918
+Alcalá de la Selva,3,alcala de la selva,382.0,Teruel,44.0,12.0,785.3403141361257
+Alcalá la Real,7,alcala la real,21496.0,Jaén,23.0,2.0,32.56419799032378
+Alcanadre,2,alcanadre,685.0,"Rioja, La",26.0,7.0,291.97080291970804
+Alcaudete,2,alcaudete,10129.0,Jaén,23.0,3.0,19.745285813012146
+Alcañices,1,alcanices,1062.0,Zamora,49.0,3.0,94.16195856873824
+Alcañiz,12,alcaniz,16505.0,Teruel,44.0,13.0,72.70524083611026
+Alcocer,1,alcocer,319.0,Guadalajara,19.0,9.0,313.4796238244514
+Alcolea del Pinar,2,alcolea del pinar,357.0,Guadalajara,19.0,11.0,560.2240896358544
+Alcoroches,2,alcoroches,117.0,Guadalajara,19.0,13.0,1709.4017094017092
+Alcubilla de Avellaneda,1,alcubilla de avellaneda,111.0,Soria,42.0,7.0,900.9009009009008
+Alcázar de San Juan,19,alcazar de san juan,31914.0,Ciudad Real,13.0,5.0,59.53500031334211
+Alcúdia,143,alcudia,21907.0,"Balears, Illes",7.0,3.0,652.7593919751678
+Aldeanueva de Ebro,3,aldeanueva de ebro,2753.0,"Rioja, La",26.0,8.0,108.97203051216854
+Aldeaquemada,2,aldeaquemada,446.0,Jaén,23.0,4.0,448.43049327354254
+Alegia,2,alegia,1813.0,Gipuzkoa,20.0,5.0,110.31439602868174
+Alesanco,1,alesanco,486.0,"Rioja, La",26.0,9.0,205.761316872428
+Alfaro,2,alfaro,9923.0,"Rioja, La",26.0,11.0,20.15519500151164
+Alfoz,1,alfoz,1493.0,Lugo,27.0,2.0,66.97923643670462
+Alfoz de Lloredo,6,alfoz de lloredo,2500.0,Cantabria,39.0,1.0,240.0
+Algaida,15,algaida,6357.0,"Balears, Illes",7.0,4.0,235.9603586597452
+Algora,1,algora,89.0,Guadalajara,19.0,17.0,1123.5955056179776
+Aliaga,1,aliaga,344.0,Teruel,44.0,17.0,290.69767441860466
+Alija del Infantado,1,alija del infantado,554.0,León,24.0,3.0,180.50541516245488
+Alkiza,2,alkiza,352.0,Gipuzkoa,20.0,6.0,568.1818181818181
+Allande,1,allande,1506.0,Asturias,33.0,1.0,66.40106241699867
+Allariz,13,allariz,6497.0,Ourense,32.0,1.0,200.09235031553024
+Aller,20,aller,10011.0,Asturias,33.0,2.0,199.7802417340925
+Allín/Allin,1,allin/allin,881.0,Navarra,31.0,11.0,113.50737797956867
+Almadrones,2,almadrones,67.0,Guadalajara,19.0,20.0,2985.074626865672
+Almadén,6,almaden,4855.0,Ciudad Real,13.0,11.0,123.58393408856848
+Almagro,10,almagro,9190.0,Ciudad Real,13.0,13.0,108.8139281828074
+Almanza,1,almanza,570.0,León,24.0,4.0,175.43859649122803
+Almarza,1,almarza,601.0,Soria,42.0,19.0,166.38935108153078
+Almassora,19,almassora,29159.0,Castellón/Castelló,12.0,9.0,65.15998491031928
+Almazán,10,almazan,5544.0,Soria,42.0,20.0,180.3751803751804
+Almedíjar,1,almedijar,288.0,Castellón/Castelló,12.0,10.0,347.22222222222223
+Almenara,6,almenara,6813.0,Castellón/Castelló,12.0,11.0,88.06693086745928
+Almería,201,almeria,205468.0,Almería,4.0,13.0,97.82545213853253
+Almudévar,4,almudevar,2462.0,Huesca,22.0,21.0,162.46953696181967
+Almuradiel,7,almuradiel,744.0,Ciudad Real,13.0,16.0,940.8602150537632
+Alonsotegi,2,alonsotegi,2991.0,Bizkaia,48.0,912.0,66.86726847208291
+Alovera,6,alovera,14526.0,Guadalajara,19.0,24.0,41.30524576621231
+Alquézar,11,alquezar,328.0,Huesca,22.0,24.0,3353.6585365853657
+Altorricón,1,altorricon,1504.0,Huesca,22.0,25.0,66.48936170212767
+Altsasu/Alsasua,3,altsasu/alsasua,7717.0,Navarra,31.0,10.0,38.87521057405728
+Altura,2,altura,3849.0,Castellón/Castelló,12.0,12.0,51.96154845414393
+Altzaga,2,altzaga,165.0,Gipuzkoa,20.0,906.0,1212.1212121212122
+Amezketa,2,amezketa,956.0,Gipuzkoa,20.0,8.0,209.20502092050208
+Amieva,1,amieva,591.0,Asturias,33.0,3.0,169.2047377326565
+Amorebieta-Etxano,33,amorebieta-etxano,19660.0,Bizkaia,48.0,3.0,167.85350966429297
+Amoroto,3,amoroto,390.0,Bizkaia,48.0,4.0,769.2307692307693
+Ampudia,4,ampudia,588.0,Palencia,34.0,10.0,680.2721088435375
+Ampuero,6,ampuero,4518.0,Cantabria,39.0,2.0,132.80212483399734
+Amurrio,14,amurrio,10364.0,Araba/Álava,1.0,2.0,135.0829795445774
+Amusco,1,amusco,417.0,Palencia,34.0,11.0,239.8081534772182
+Améscoa Baja,3,amescoa baja,729.0,Navarra,31.0,13.0,411.522633744856
+Andoain,15,andoain,14517.0,Gipuzkoa,20.0,9.0,103.327133705311
+Andorra,4,andorra,7223.0,Teruel,44.0,25.0,55.378651529835246
+Andratx,63,andratx,12195.0,"Balears, Illes",7.0,5.0,516.6051660516605
+Andújar,6,andujar,35610.0,Jaén,23.0,5.0,16.849199663016005
+Anguiano,1,anguiano,488.0,"Rioja, La",26.0,14.0,204.91803278688525
+Angüés,1,angues,350.0,Huesca,22.0,27.0,285.7142857142857
+Anoeta,1,anoeta,2112.0,Gipuzkoa,20.0,10.0,47.34848484848485
+Ansoáin/Antsoain,2,ansoain/antsoain,10663.0,Navarra,31.0,16.0,18.75644752883804
+Ansó,8,anso,409.0,Huesca,22.0,28.0,1955.9902200489
+Antas de Ulla,2,antas de ulla,1822.0,Lugo,27.0,3.0,109.7694840834248
+Antzuola,2,antzuola,2045.0,Gipuzkoa,20.0,11.0,97.799511002445
+Anue,1,anue,501.0,Navarra,31.0,17.0,199.60079840319364
+Aoiz/Agoitz,2,aoiz/agoitz,3083.0,Navarra,31.0,19.0,64.87187804086928
+Aragüés del Puerto,1,aragues del puerto,123.0,Huesca,22.0,32.0,813.0081300813008
+Araitz,2,araitz,506.0,Navarra,31.0,20.0,395.2569169960474
+Arakil,2,arakil,990.0,Navarra,31.0,25.0,202.020202020202
+Arama,1,arama,173.0,Gipuzkoa,20.0,12.0,578.0346820809249
+Aramaio,3,aramaio,1354.0,Araba/Álava,1.0,3.0,221.56573116691283
+Aranguren,6,aranguren,13216.0,Navarra,31.0,23.0,45.39951573849879
+Arano,1,arano,108.0,Navarra,31.0,24.0,925.925925925926
+Arantza,4,arantza,628.0,Navarra,31.0,22.0,636.9426751592357
+Aras,1,aras,150.0,Navarra,31.0,26.0,666.6666666666666
+Arañuel,1,aranuel,148.0,Castellón/Castelló,12.0,13.0,675.6756756756757
+Arbancón,1,arbancon,157.0,Guadalajara,19.0,37.0,636.9426751592357
+Arbizu,3,arbizu,1107.0,Navarra,31.0,27.0,271.00271002710025
+Arcos de Jalón,2,arcos de jalon,1531.0,Soria,42.0,25.0,130.63357282821684
+Arcos de las Salinas,1,arcos de las salinas,105.0,Teruel,44.0,26.0,952.3809523809524
+Areatza,5,areatza,1292.0,Bizkaia,48.0,93.0,386.99690402476784
+Arenas de Iguña,1,arenas de iguna,1735.0,Cantabria,39.0,4.0,57.63688760806916
+Arens de Lledó,0,arens de lledo,181.0,Teruel,44.0,27.0,0.0
+Ares del Maestrat,3,ares del maestrat,181.0,Castellón/Castelló,12.0,14.0,1657.4585635359117
+Areso,1,areso,260.0,Navarra,31.0,31.0,384.61538461538464
+Aretxabaleta,3,aretxabaleta,7178.0,Gipuzkoa,20.0,13.0,41.79437169127891
+Argamasilla de Alba,1,argamasilla de alba,6777.0,Ciudad Real,13.0,19.0,14.755791648221928
+Argamasilla de Calatrava,5,argamasilla de calatrava,5847.0,Ciudad Real,13.0,20.0,85.51393877201984
+Arganza,2,arganza,800.0,León,24.0,7.0,250.0
+Argoños,5,argonos,1884.0,Cantabria,39.0,5.0,265.3927813163482
+Arguedas,9,arguedas,2309.0,Navarra,31.0,32.0,389.779125162408
+Arguis,3,arguis,167.0,Huesca,22.0,37.0,1796.4071856287426
+Ariany,1,ariany,1072.0,"Balears, Illes",7.0,901.0,93.28358208955224
+Arjonilla,5,arjonilla,3520.0,Jaén,23.0,7.0,142.04545454545453
+Arnedillo,3,arnedillo,433.0,"Rioja, La",26.0,17.0,692.8406466512703
+Arnedo,5,arnedo,15140.0,"Rioja, La",26.0,18.0,33.02509907529723
+Arnuero,24,arnuero,2300.0,Cantabria,39.0,6.0,1043.4782608695652
+Arquillos,2,arquillos,1682.0,Jaén,23.0,8.0,118.90606420927466
+Arraia-Maeztu,3,arraia-maeztu,812.0,Araba/Álava,1.0,37.0,369.4581280788177
+Arrankudiaga-Zollo,2,arrankudiaga-zollo,1018.0,Bizkaia,48.0,9.0,196.46365422396855
+Arrasate/Mondragón,22,arrasate/mondragon,22450.0,Gipuzkoa,20.0,55.0,97.99554565701558
+Arratzu,1,arratzu,417.0,Bizkaia,48.0,914.0,239.8081534772182
+Arratzua-Ubarrundia,6,arratzua-ubarrundia,1056.0,Araba/Álava,1.0,8.0,568.1818181818181
+Arredondo,4,arredondo,478.0,Cantabria,39.0,7.0,836.8200836820083
+Arrigorriaga,4,arrigorriaga,11939.0,Bizkaia,48.0,11.0,33.50364352123294
+Arroyo de las Fraguas,1,arroyo de las fraguas,32.0,Guadalajara,19.0,42.0,3124.9999999999995
+Arroyo del Ojanco,4,arroyo del ojanco,2158.0,Jaén,23.0,905.0,185.356811862836
+Arruazu,1,arruazu,121.0,Navarra,31.0,37.0,826.4462809917355
+Arrúbal,1,arrubal,566.0,"Rioja, La",26.0,19.0,176.67844522968198
+Artajona,2,artajona,1783.0,Navarra,31.0,38.0,112.17049915872128
+Artana,3,artana,1993.0,Castellón/Castelló,12.0,16.0,150.52684395383844
+Artea,1,artea,743.0,Bizkaia,48.0,23.0,134.58950201884252
+Artzentales,2,artzentales,754.0,Bizkaia,48.0,8.0,265.2519893899204
+Artziniega,3,artziniega,1868.0,Araba/Álava,1.0,4.0,160.59957173447538
+Artà,27,arta,8629.0,"Balears, Illes",7.0,6.0,312.8983659751999
+Arén,2,aren,309.0,Huesca,22.0,35.0,647.2491909385113
+As Nogais,1,as nogais,,,,,
+Asparrena,6,asparrena,1609.0,Araba/Álava,1.0,9.0,372.9024238657551
+Asteasu,3,asteasu,1566.0,Gipuzkoa,20.0,14.0,191.57088122605364
+Astigarraga,32,astigarraga,7812.0,Gipuzkoa,20.0,903.0,409.626216077829
+Astorga,27,astorga,10305.0,León,24.0,8.0,262.0087336244541
+Asturianos,1,asturianos,252.0,Zamora,49.0,17.0,396.8253968253968
+Ataun,3,ataun,1714.0,Gipuzkoa,20.0,15.0,175.0291715285881
+Atienza,7,atienza,406.0,Guadalajara,19.0,44.0,1724.1379310344826
+Atxondo,6,atxondo,1342.0,Bizkaia,48.0,91.0,447.0938897168405
+Atzeneta del Maestrat,3,atzeneta del maestrat,1284.0,Castellón/Castelló,12.0,1.0,233.6448598130841
+Aulesti,1,aulesti,639.0,Bizkaia,48.0,70.0,156.49452269170578
+Auritz/Burguete,4,auritz/burguete,235.0,Navarra,31.0,58.0,1702.127659574468
+Autilla del Pino,1,autilla del pino,223.0,Palencia,34.0,18.0,448.43049327354254
+Autol,4,autol,4958.0,"Rioja, La",26.0,21.0,80.67769261799113
+Avilés,66,aviles,75517.0,Asturias,33.0,4.0,87.39753962683899
+Ayala/Aiara,5,ayala/aiara,2921.0,Araba/Álava,1.0,10.0,171.17425539198905
+Ayegui/Aiegi,2,ayegui/aiegi,2589.0,Navarra,31.0,41.0,77.2499034376207
+Ayerbe,4,ayerbe,1050.0,Huesca,22.0,39.0,380.9523809523809
+Ayódar,1,ayodar,176.0,Castellón/Castelló,12.0,17.0,568.1818181818181
+Azagra,1,azagra,3746.0,Navarra,31.0,42.0,26.695141484249863
+Azaila,0,azaila,94.0,Teruel,44.0,31.0,0.0
+Azkoitia,8,azkoitia,11774.0,Gipuzkoa,20.0,17.0,67.94632240529981
+Azofra,2,azofra,188.0,"Rioja, La",26.0,22.0,1063.829787234043
+Azpeitia,14,azpeitia,15301.0,Gipuzkoa,20.0,18.0,91.49728775897
+Azuqueca de Henares,5,azuqueca de henares,35924.0,Guadalajara,19.0,46.0,13.918271907359982
+Aín,1,ain,133.0,Castellón/Castelló,12.0,2.0,751.8796992481203
+Aínsa-Sobrarbe,18,ainsa-sobrarbe,2335.0,Huesca,22.0,907.0,770.8779443254818
+Añana,3,anana,141.0,Araba/Álava,1.0,49.0,2127.659574468085
+Badajoz,81,badajoz,150209.0,Badajoz,6.0,15.0,53.92486468853398
+Badarán,1,badaran,474.0,"Rioja, La",26.0,23.0,210.97046413502107
+Baeza,36,baeza,15575.0,Jaén,23.0,9.0,231.13964686998395
+Baides,1,baides,46.0,Guadalajara,19.0,47.0,2173.913043478261
+Bailo,2,bailo,265.0,Huesca,22.0,44.0,754.7169811320755
+Bailén,4,bailen,17119.0,Jaén,23.0,10.0,23.365850809042584
+Bakio,10,bakio,2857.0,Bizkaia,48.0,12.0,350.0175008750437
+Balboa,4,balboa,269.0,León,24.0,9.0,1486.988847583643
+Baldellou,1,baldellou,81.0,Huesca,22.0,45.0,1234.567901234568
+Baleira,6,baleira,1093.0,Lugo,27.0,4.0,548.9478499542544
+Baliarrain,1,baliarrain,152.0,Gipuzkoa,20.0,904.0,657.8947368421052
+Balmaseda,3,balmaseda,7718.0,Bizkaia,48.0,90.0,38.87017362010884
+Baltanás,2,baltanas,1226.0,Palencia,34.0,22.0,163.1321370309951
+Bande,2,bande,1460.0,Ourense,32.0,6.0,136.986301369863
+Banyalbufar,9,banyalbufar,573.0,"Balears, Illes",7.0,7.0,1570.6806282722514
+Barakaldo,80,barakaldo,102986.0,Bizkaia,48.0,13.0,77.68046142194085
+Baralla,1,baralla,2396.0,Lugo,27.0,901.0,41.736227045075125
+Baraona,2,baraona,117.0,Soria,42.0,29.0,1709.4017094017092
+Barañáin/Barañain,9,baranain/baranain,19642.0,Navarra,31.0,901.0,45.82018124427248
+Barbadás,3,barbadas,11201.0,Ourense,32.0,8.0,26.78332291759664
+Barbastro,7,barbastro,17807.0,Huesca,22.0,48.0,39.31038355702813
+Barcelona,3665,barcelona,1731649.0,Barcelona,8.0,19.0,211.6479725394696
+Bardenas Reales,1,bardenas reales,,,,,
+Bareyo,15,bareyo,2124.0,Cantabria,39.0,11.0,706.2146892655368
+Barracas,3,barracas,188.0,Castellón/Castelló,12.0,20.0,1595.7446808510638
+Barreiros,13,barreiros,3036.0,Lugo,27.0,5.0,428.1949934123847
+Barrika,5,barrika,1513.0,Bizkaia,48.0,14.0,330.4692663582287
+Barruelo de Santullán,3,barruelo de santullan,1164.0,Palencia,34.0,27.0,257.7319587628866
+Barrundia,4,barrundia,882.0,Araba/Álava,1.0,13.0,453.51473922902494
+Barásoain,1,barasoain,601.0,Navarra,31.0,45.0,166.38935108153078
+Basaburua,5,basaburua,819.0,Navarra,31.0,49.0,610.5006105006105
+Basauri,10,basauri,40274.0,Bizkaia,48.0,15.0,24.829915081690423
+Baztan,33,baztan,7851.0,Navarra,31.0,50.0,420.3286205578908
+Bañares,2,banares,198.0,"Rioja, La",26.0,24.0,1010.1010101010102
+Baños de Molgas,1,banos de molgas,1471.0,Ourense,32.0,7.0,67.98096532970767
+Baños de la Encina,8,banos de la encina,2542.0,Jaén,23.0,11.0,314.7128245476003
+Beas de Segura,1,beas de segura,4983.0,Jaén,23.0,12.0,20.06823198876179
+Beasain,4,beasain,14048.0,Gipuzkoa,20.0,19.0,28.47380410022779
+Beceite,7,beceite,572.0,Teruel,44.0,37.0,1223.7762237762238
+Becerreá,3,becerrea,2836.0,Lugo,27.0,6.0,105.78279266572638
+Becerril de Campos,2,becerril de campos,737.0,Palencia,34.0,29.0,271.370420624152
+Bedia,1,bedia,1111.0,Bizkaia,48.0,92.0,90.00900090009002
+Bedmar y Garcíez,5,bedmar y garciez,2567.0,Jaén,23.0,902.0,194.77989871445268
+Begonte,14,begonte,2886.0,Lugo,27.0,7.0,485.1004851004851
+Begíjar,0,begijar,2908.0,Jaén,23.0,14.0,0.0
+Beintza-Labaien,1,beintza-labaien,228.0,Navarra,31.0,137.0,438.5964912280702
+Beire,1,beire,274.0,Navarra,31.0,51.0,364.9635036496351
+Beizama,1,beizama,128.0,Gipuzkoa,20.0,20.0,781.2499999999999
+Bejís,1,bejis,400.0,Castellón/Castelló,12.0,22.0,250.0
+Belascoáin,0,belascoain,124.0,Navarra,31.0,52.0,0.0
+Belauntza,1,belauntza,291.0,Gipuzkoa,20.0,21.0,343.6426116838488
+Belmonte de Miranda,2,belmonte de miranda,1366.0,Asturias,33.0,5.0,146.41288433382138
+Belver de Cinca,1,belver de cinca,1298.0,Huesca,22.0,52.0,77.04160246533128
+Bembibre,12,bembibre,8041.0,León,24.0,14.0,149.2351697550056
+Benabarre,6,benabarre,1142.0,Huesca,22.0,53.0,525.3940455341507
+Benasque,20,benasque,2359.0,Huesca,22.0,54.0,847.816871555744
+Benassal,1,benassal,1048.0,Castellón/Castelló,12.0,26.0,95.41984732824427
+Benavente,18,benavente,17309.0,Zamora,49.0,21.0,103.99214281587614
+Benavides,2,benavides,2321.0,León,24.0,15.0,86.16975441619991
+Benicarló,14,benicarlo,30296.0,Castellón/Castelló,12.0,27.0,46.21072088724584
+Benicàssim/Benicasim,34,benicassim/benicasim,20539.0,Castellón/Castelló,12.0,28.0,165.53873119431327
+Bera,15,bera,3779.0,Navarra,31.0,250.0,396.930404869013
+Berango,10,berango,8242.0,Bizkaia,48.0,16.0,121.32977432661976
+Berantevilla,2,berantevilla,461.0,Araba/Álava,1.0,14.0,433.8394793926247
+Berastegi,2,berastegi,1114.0,Gipuzkoa,20.0,22.0,179.53321364452424
+Berbegal,1,berbegal,321.0,Huesca,22.0,55.0,311.5264797507788
+Berceo,1,berceo,143.0,"Rioja, La",26.0,27.0,699.3006993006993
+Bercianos del Real Camino,1,bercianos del real camino,179.0,León,24.0,18.0,558.659217877095
+Bergara,11,bergara,14404.0,Gipuzkoa,20.0,74.0,76.36767564565399
+Berge,1,berge,218.0,Teruel,44.0,40.0,458.7155963302752
+Beriáin,2,beriain,4195.0,Navarra,31.0,905.0,47.67580452920143
+Berlanga de Duero,2,berlanga de duero,810.0,Soria,42.0,35.0,246.9135802469136
+Bermeo,17,bermeo,17038.0,Bizkaia,48.0,17.0,99.7769691278319
+Bermillo de Sayago,2,bermillo de sayago,1028.0,Zamora,49.0,23.0,194.5525291828794
+Berriatua,1,berriatua,1224.0,Bizkaia,48.0,18.0,81.69934640522877
+Berrioplano/Berriobeiti,5,berrioplano/berriobeiti,7645.0,Navarra,31.0,902.0,65.40222367560497
+Berriozar,3,berriozar,11361.0,Navarra,31.0,903.0,26.406126221283337
+Berriz,5,berriz,4533.0,Bizkaia,48.0,19.0,110.30222810500771
+Berrobi,1,berrobi,551.0,Gipuzkoa,20.0,23.0,181.48820326678765
+Bertizarana,1,bertizarana,668.0,Navarra,31.0,54.0,149.7005988023952
+Betelu,1,betelu,375.0,Navarra,31.0,55.0,266.6666666666667
+Beteta,1,beteta,253.0,Cuenca,16.0,35.0,395.2569169960474
+Bezas,1,bezas,73.0,Teruel,44.0,41.0,1369.8630136986303
+Bidania-Goiatz,2,bidania-goiatz,530.0,Gipuzkoa,20.0,24.0,377.35849056603774
+Bielsa,11,bielsa,479.0,Huesca,22.0,57.0,2296.4509394572024
+Bierge,3,bierge,243.0,Huesca,22.0,58.0,1234.567901234568
+Biescas,18,biescas,1640.0,Huesca,22.0,59.0,1097.560975609756
+Bilbao,493,bilbao,351124.0,Bizkaia,48.0,20.0,140.40623825201354
+Bimenes,3,bimenes,1639.0,Asturias,33.0,6.0,183.03843807199516
+Binissalem,8,binissalem,9350.0,"Balears, Illes",7.0,8.0,85.56149732620321
+Binéfar,4,binefar,10235.0,Huesca,22.0,61.0,39.08158280410357
+Boadilla del Camino,1,boadilla del camino,111.0,Palencia,34.0,34.0,900.9009009009008
+Boal,2,boal,1372.0,Asturias,33.0,7.0,145.7725947521866
+Boca de Huérgano,4,boca de huergano,412.0,León,24.0,20.0,970.8737864077668
+Bolaños de Calatrava,4,bolanos de calatrava,12153.0,Ciudad Real,13.0,23.0,32.913683864066485
+Boltaña,5,boltana,1089.0,Huesca,22.0,66.0,459.1368227731864
+Borrenes,1,borrenes,297.0,León,24.0,22.0,336.7003367003367
+Borriana/Burriana,18,borriana/burriana,37915.0,Castellón/Castelló,12.0,32.0,47.47461426875907
+Borriol,2,borriol,6018.0,Castellón/Castelló,12.0,31.0,33.23363243602526
+Boñar,10,bonar,1732.0,León,24.0,21.0,577.3672055427252
+Brazatortas,3,brazatortas,1007.0,Ciudad Real,13.0,24.0,297.9145978152929
+Brazuelo,4,brazuelo,304.0,León,24.0,23.0,1315.7894736842104
+Brañosera,3,branosera,253.0,Palencia,34.0,36.0,1185.7707509881425
+Brihuega,6,brihuega,2826.0,Guadalajara,19.0,53.0,212.31422505307856
+Briones,5,briones,752.0,"Rioja, La",26.0,34.0,664.8936170212767
+Briñas,1,brinas,191.0,"Rioja, La",26.0,33.0,523.5602094240837
+Bronchales,2,bronchales,465.0,Teruel,44.0,45.0,430.1075268817205
+Broto,9,broto,615.0,Huesca,22.0,69.0,1463.4146341463415
+Buitrago,0,buitrago,68.0,Soria,42.0,42.0,0.0
+Bunyola,8,bunyola,7642.0,"Balears, Illes",7.0,10.0,104.68463752944255
+Burbáguena,1,burbaguena,396.0,Teruel,44.0,47.0,252.5252525252525
+Burela,8,burela,9630.0,Lugo,27.0,902.0,83.07372793354102
+Burgo de Osma-Ciudad de Osma,17,burgo de osma-ciudad de osma,5283.0,Soria,42.0,43.0,321.78686352451257
+Burgos,281,burgos,177402.0,Burgos,9.0,59.0,158.39731231891412
+Burgui/Burgi,1,burgui/burgi,187.0,Navarra,31.0,59.0,534.75935828877
+Burlada/Burlata,8,burlada/burlata,21280.0,Navarra,31.0,60.0,37.59398496240602
+Burón,3,buron,282.0,León,24.0,25.0,1063.8297872340424
+Busturia,3,busturia,1693.0,Bizkaia,48.0,21.0,177.20023626698168
+Buñuel,1,bunuel,2318.0,Navarra,31.0,57.0,43.14063848144953
+Bárcena de Cicero,5,barcena de cicero,4907.0,Cantabria,39.0,9.0,101.89525168127165
+Bárcena de Pie de Concha,3,barcena de pie de concha,675.0,Cantabria,39.0,10.0,444.44444444444446
+Bélmez de la Moraleda,1,belmez de la moraleda,1504.0,Jaén,23.0,15.0,66.48936170212767
+Bóveda,1,boveda,1369.0,Lugo,27.0,8.0,73.04601899196493
+Búger,2,buger,1215.0,"Balears, Illes",7.0,9.0,164.6090534979424
+Cabanes,12,cabanes,3475.0,Castellón/Castelló,12.0,33.0,345.3237410071942
+Cabanes,12,cabanes,995.0,Girona,17.0,30.0,1206.0301507537688
+Cabanillas del Campo,4,cabanillas del campo,11572.0,Guadalajara,19.0,58.0,34.56619426201175
+Cabañas Raras,0,cabanas raras,1286.0,León,24.0,27.0,0.0
+Cabezarados,1,cabezarados,279.0,Ciudad Real,13.0,25.0,358.4229390681004
+Cabezarrubias del Puerto,1,cabezarrubias del puerto,483.0,Ciudad Real,13.0,26.0,207.0393374741201
+Cabezón de Liébana,3,cabezon de liebana,530.0,Cantabria,39.0,13.0,566.0377358490566
+Cabezón de la Sal,11,cabezon de la sal,8226.0,Cantabria,39.0,12.0,133.7223437879893
+Cabra del Santo Cristo,1,cabra del santo cristo,1639.0,Jaén,23.0,17.0,61.01281269066504
+Cabrales,32,cabrales,1884.0,Asturias,33.0,8.0,1698.5138004246285
+Cabranes,3,cabranes,1094.0,Asturias,33.0,9.0,274.22303473491775
+Cabrillanes,2,cabrillanes,687.0,León,24.0,29.0,291.12081513828235
+Cabuérniga,4,cabuerniga,976.0,Cantabria,39.0,14.0,409.8360655737705
+Cacabelos,8,cacabelos,4734.0,León,24.0,30.0,168.99028305872412
+Calaceite,1,calaceite,961.0,Teruel,44.0,49.0,104.05827263267427
+Calahorra,14,calahorra,25367.0,"Rioja, La",26.0,36.0,55.18981353727283
+Calamocha,10,calamocha,4655.0,Teruel,44.0,50.0,214.82277121374867
+Calatañazor,6,calatanazor,43.0,Soria,42.0,46.0,13953.488372093025
+Calvià,305,calvia,53793.0,"Balears, Illes",7.0,11.0,566.9882698492369
+Calzada de Calatrava,1,calzada de calatrava,3668.0,Ciudad Real,13.0,27.0,27.262813522355508
+Calzada del Coto,2,calzada del coto,217.0,León,24.0,31.0,921.6589861751152
+Calzadilla de Tera,2,calzadilla de tera,278.0,Zamora,49.0,32.0,719.4244604316547
+Camaleño,20,camaleno,964.0,Cantabria,39.0,15.0,2074.688796680498
+Camarena de la Sierra,1,camarena de la sierra,137.0,Teruel,44.0,54.0,729.9270072992701
+Camargo,33,camargo,30577.0,Cantabria,39.0,16.0,107.92425679432252
+Camarzana de Tera,1,camarzana de tera,740.0,Zamora,49.0,33.0,135.13513513513513
+Cambil,5,cambil,2654.0,Jaén,23.0,18.0,188.39487565938205
+Caminreal,1,caminreal,606.0,Teruel,44.0,56.0,165.016501650165
+Campanet,6,campanet,2859.0,"Balears, Illes",7.0,12.0,209.8635886673662
+Campezo/Kanpezu,4,campezo/kanpezu,1073.0,Araba/Álava,1.0,17.0,372.7865796831314
+Campillo de Arenas,3,campillo de arenas,1711.0,Jaén,23.0,19.0,175.33606078316774
+Campillo de Ranas,5,campillo de ranas,150.0,Guadalajara,19.0,60.0,3333.333333333333
+Campo,2,campo,491.0,Huesca,22.0,74.0,407.3319755600815
+Campo de Criptana,10,campo de criptana,12868.0,Ciudad Real,13.0,28.0,77.7121541809139
+Campo de Villavidel,1,campo de villavidel,209.0,León,24.0,33.0,478.4688995215311
+Camponaraya,5,camponaraya,4060.0,León,24.0,34.0,123.15270935960592
+Campoo de Enmedio,3,campoo de enmedio,3729.0,Cantabria,39.0,27.0,80.45052292839904
+Campoo de Yuso,5,campoo de yuso,680.0,Cantabria,39.0,17.0,735.2941176470589
+Campos,36,campos,12485.0,"Balears, Illes",7.0,13.0,288.3460152182619
+Canal de Berdún,2,canal de berdun,322.0,Huesca,22.0,76.0,621.1180124223602
+Canales de la Sierra,1,canales de la sierra,84.0,"Rioja, La",26.0,38.0,1190.4761904761904
+Candamo,3,candamo,1902.0,Asturias,33.0,10.0,157.72870662460568
+Candasnos,2,candasnos,478.0,Huesca,22.0,77.0,418.41004184100416
+Canena,2,canena,1717.0,Jaén,23.0,20.0,116.48223645894
+Canet lo Roig,4,canet lo roig,715.0,Castellón/Castelló,12.0,36.0,559.4405594405595
+Canfranc,8,canfranc,633.0,Huesca,22.0,78.0,1263.8230647709322
+Cangas de Onís,42,cangas de onis,6344.0,Asturias,33.0,12.0,662.0428751576293
+Cangas del Narcea,16,cangas del narcea,11282.0,Asturias,33.0,11.0,141.81882644921112
+Canillas de Río Tuerto,1,canillas de rio tuerto,43.0,"Rioja, La",26.0,39.0,2325.5813953488373
+Cantalojas,2,cantalojas,121.0,Guadalajara,19.0,65.0,1652.892561983471
+Cantavieja,2,cantavieja,729.0,Teruel,44.0,59.0,274.34842249657066
+Caparroso,2,caparroso,2882.0,Navarra,31.0,65.0,69.39625260235948
+Capdepera,92,capdepera,13135.0,"Balears, Illes",7.0,14.0,700.4187285877427
+Capella,1,capella,361.0,Huesca,22.0,80.0,277.0083102493075
+Caracena,1,caracena,13.0,Soria,42.0,52.0,7692.307692307693
+Caravia,5,caravia,486.0,Asturias,33.0,13.0,1028.80658436214
+Carballeda de Valdeorras,1,carballeda de valdeorras,1311.0,Ourense,32.0,17.0,76.27765064836002
+Carboneros,2,carboneros,624.0,Jaén,23.0,21.0,320.5128205128205
+Carcastillo,1,carcastillo,2408.0,Navarra,31.0,67.0,41.52823920265781
+Carracedelo,5,carracedelo,3423.0,León,24.0,38.0,146.0706982179375
+Carreño,20,carreno,10292.0,Asturias,33.0,14.0,194.325689856199
+Carrizo,2,carrizo,2242.0,León,24.0,39.0,89.20606601248885
+Carrión de Calatrava,1,carrion de calatrava,3239.0,Ciudad Real,13.0,31.0,30.87372645878357
+Carrión de los Condes,6,carrion de los condes,1997.0,Palencia,34.0,47.0,300.450676014021
+Carrocera,1,carrocera,437.0,León,24.0,40.0,228.8329519450801
+Cartes,9,cartes,5874.0,Cantabria,39.0,18.0,153.21756894790602
+Carucedo,10,carucedo,479.0,León,24.0,41.0,2087.6826722338205
+Casalarreina,6,casalarreina,1094.0,"Rioja, La",26.0,42.0,548.4460694698355
+Casarejos,2,casarejos,145.0,Soria,42.0,55.0,1379.3103448275865
+Cascante,4,cascante,4231.0,Navarra,31.0,68.0,94.54029780193808
+Caso,9,caso,1437.0,Asturias,33.0,15.0,626.304801670146
+Castañeda,4,castaneda,3290.0,Cantabria,39.0,19.0,121.580547112462
+Castejón,1,castejon,120.0,Cuenca,16.0,67.0,833.3333333333334
+Castejón,1,castejon,4725.0,Navarra,31.0,70.0,21.164021164021165
+Castejón de Sos,2,castejon de sos,840.0,Huesca,22.0,84.0,238.0952380952381
+Castellar,3,castellar,3147.0,Jaén,23.0,25.0,95.32888465204958
+Castellote,2,castellote,665.0,Teruel,44.0,71.0,300.7518796992481
+Castelló de la Plana/Castellón de la Plana,167,castello de la plana/castellon de la plana,183711.0,Castellón/Castelló,12.0,40.0,90.90364757690068
+Castiello de Jaca,3,castiello de jaca,280.0,Huesca,22.0,86.0,1071.428571428571
+Castillejo de Robledo,1,castillejo de robledo,100.0,Soria,42.0,58.0,1000.0
+Castillo de Locubín,4,castillo de locubin,3805.0,Jaén,23.0,26.0,105.12483574244416
+Castillo de Villamalefa,1,castillo de villamalefa,110.0,Castellón/Castelló,12.0,41.0,909.090909090909
+Castillonroy,1,castillonroy,334.0,Huesca,22.0,89.0,299.4011976047904
+Castrillón,13,castrillon,21998.0,Asturias,33.0,16.0,59.09628148013456
+Castro Caldelas,3,castro caldelas,1244.0,Ourense,32.0,23.0,241.15755627009648
+Castro de Rei,2,castro de rei,5001.0,Lugo,27.0,10.0,39.99200159968007
+Castro-Urdiales,51,castro-urdiales,33450.0,Cantabria,39.0,20.0,152.46636771300447
+Castrogonzalo,1,castrogonzalo,432.0,Zamora,49.0,41.0,231.48148148148147
+Castropol,7,castropol,3202.0,Asturias,33.0,17.0,218.6133666458464
+Castroverde,1,castroverde,2478.0,Lugo,27.0,11.0,40.35512510088781
+Castroverde de Campos,1,castroverde de campos,240.0,Zamora,49.0,43.0,416.6666666666667
+Castroviejo,1,castroviejo,57.0,"Rioja, La",26.0,44.0,1754.3859649122808
+Catí,3,cati,719.0,Castellón/Castelló,12.0,42.0,417.2461752433936
+Caudiel,1,caudiel,735.0,Castellón/Castelló,12.0,43.0,136.0544217687075
+Cazalilla,1,cazalilla,762.0,Jaén,23.0,27.0,131.23359580052494
+Cazorla,18,cazorla,6930.0,Jaén,23.0,28.0,259.7402597402597
+Celadas,1,celadas,331.0,Teruel,44.0,75.0,302.11480362537765
+Celanova,6,celanova,5723.0,Ourense,32.0,24.0,104.84011881880132
+Cella,2,cella,2702.0,Teruel,44.0,76.0,74.01924500370096
+Cendea de Olza/Oltza Zendea,2,cendea de olza/oltza zendea,1874.0,Navarra,31.0,193.0,106.72358591248666
+Cenlle,1,cenlle,1066.0,Ourense,32.0,25.0,93.80863039399624
+Cerecinos de Campos,1,cerecinos de campos,231.0,Zamora,49.0,46.0,432.9004329004329
+Cervantes,5,cervantes,1142.0,Lugo,27.0,12.0,437.82837127845886
+Cervatos de la Cueza,1,cervatos de la cueza,241.0,Palencia,34.0,55.0,414.9377593360996
+Cervera de Pisuerga,12,cervera de pisuerga,2272.0,Palencia,34.0,56.0,528.169014084507
+Cervera del Maestre,1,cervera del maestre,617.0,Castellón/Castelló,12.0,44.0,162.07455429497568
+Cervera del Río Alhama,4,cervera del rio alhama,2237.0,"Rioja, La",26.0,47.0,178.81090746535537
+Cervo,2,cervo,4137.0,Lugo,27.0,13.0,48.344210780759006
+Ceuta,28,ceuta,83595.0,Ceuta,51.0,1.0,33.494826245588854
+Cevico Navero,1,cevico navero,175.0,Palencia,34.0,58.0,571.4285714285714
+Chandrexa de Queixa,2,chandrexa de queixa,467.0,Ourense,32.0,29.0,428.2655246252677
+Chantada,16,chantada,8171.0,Lugo,27.0,16.0,195.8144657936605
+Chiclana de Segura,1,chiclana de segura,859.0,Jaén,23.0,29.0,116.41443538998836
+Chilches/Xilxes,6,chilches/xilxes,3199.0,Castellón/Castelló,12.0,53.0,187.5586120662707
+Chilluévar,1,chilluevar,1309.0,Jaén,23.0,30.0,76.39419404125287
+Chillón,1,chillon,1752.0,Ciudad Real,13.0,38.0,57.077625570776256
+Chiloeches,0,chiloeches,4117.0,Guadalajara,19.0,105.0,0.0
+Chozas de Abajo,2,chozas de abajo,2699.0,León,24.0,65.0,74.10151908114116
+Chía,1,chia,90.0,Huesca,22.0,95.0,1111.111111111111
+Chóvar,1,chovar,316.0,Castellón/Castelló,12.0,56.0,316.4556962025316
+Cidones,1,cidones,313.0,Soria,42.0,61.0,319.4888178913738
+Cieza,1,cieza,35577.0,Murcia,30.0,19.0,2.810804733395172
+Cieza,1,cieza,528.0,Cantabria,39.0,21.0,189.3939393939394
+Cifuentes,4,cifuentes,1731.0,Guadalajara,19.0,86.0,231.08030040439053
+Cihuri,2,cihuri,205.0,"Rioja, La",26.0,49.0,975.6097560975608
+Cillorigo de Liébana,6,cillorigo de liebana,1386.0,Cantabria,39.0,22.0,432.90043290043286
+Cimanes del Tejar,2,cimanes del tejar,710.0,León,24.0,55.0,281.6901408450704
+Cinctorres,1,cinctorres,433.0,Castellón/Castelló,12.0,45.0,230.9468822170901
+Cintruénigo,3,cintruenigo,8565.0,Navarra,31.0,72.0,35.02626970227671
+Cirat,2,cirat,220.0,Castellón/Castelló,12.0,46.0,909.090909090909
+Cirauqui/Zirauki,2,cirauqui/zirauki,473.0,Navarra,31.0,74.0,422.8329809725159
+Cirueña,1,ciruena,194.0,"Rioja, La",26.0,50.0,515.4639175257731
+Cistierna,7,cistierna,2857.0,León,24.0,56.0,245.0122506125306
+Ciudad Real,15,ciudad real,76217.0,Ciudad Real,13.0,34.0,19.6806486741803
+Ciutadella de Menorca,102,ciutadella de menorca,32431.0,"Balears, Illes",7.0,15.0,314.51389103018715
+Cizur,4,cizur,3949.0,Navarra,31.0,76.0,101.29146619397316
+Clavijo,1,clavijo,294.0,"Rioja, La",26.0,51.0,340.13605442176873
+Coaña,5,coana,3321.0,Asturias,33.0,18.0,150.5570611261668
+Cobreros,3,cobreros,543.0,Zamora,49.0,50.0,552.4861878453039
+Cogolludo,4,cogolludo,574.0,Guadalajara,19.0,92.0,696.8641114982578
+Coles,1,coles,3228.0,Ourense,32.0,26.0,30.978934324659228
+Colindres,5,colindres,8570.0,Cantabria,39.0,23.0,58.343057176196034
+Colunga,26,colunga,3143.0,Asturias,33.0,19.0,827.2351256761057
+Colungo,2,colungo,124.0,Huesca,22.0,90.0,1612.9032258064517
+Comillas,20,comillas,2075.0,Cantabria,39.0,24.0,963.8554216867468
+Condemios de Arriba,1,condemios de arriba,101.0,Guadalajara,19.0,96.0,990.09900990099
+Congosto,4,congosto,1418.0,León,24.0,57.0,282.08744710860367
+Consell,3,consell,4521.0,"Balears, Illes",7.0,16.0,66.35700066357
+Corduente,1,corduente,297.0,Guadalajara,19.0,99.0,336.7003367003367
+Corella,2,corella,8756.0,Navarra,31.0,77.0,22.841480127912288
+Corera,1,corera,281.0,"Rioja, La",26.0,53.0,355.87188612099646
+Corrales del Vino,3,corrales del vino,930.0,Zamora,49.0,54.0,322.5806451612904
+Cortes,3,cortes,3165.0,Navarra,31.0,78.0,94.7867298578199
+Cortes de Arenoso,1,cortes de arenoso,308.0,Castellón/Castelló,12.0,48.0,324.6753246753247
+Corvera de Asturias,10,corvera de asturias,15785.0,Asturias,33.0,20.0,63.35128286347799
+Corvera de Toranzo,10,corvera de toranzo,2204.0,Cantabria,39.0,26.0,453.7205081669691
+Cospeito,2,cospeito,4172.0,Lugo,27.0,15.0,47.93863854266539
+Cretas,1,cretas,559.0,Teruel,44.0,86.0,178.89087656529517
+Crémenes,6,cremenes,497.0,León,24.0,60.0,1207.2434607645876
+Cualedro,1,cualedro,1538.0,Ourense,32.0,28.0,65.01950585175553
+Cubillas de Cerrato,1,cubillas de cerrato,60.0,Palencia,34.0,66.0,1666.6666666666667
+Cudillero,30,cudillero,4867.0,Asturias,33.0,21.0,616.3961372508733
+Cuenca,73,cuenca,53600.0,Cuenca,16.0,78.0,136.19402985074626
+Cueva de Ágreda,1,cueva de agreda,67.0,Soria,42.0,73.0,1492.5373134328358
+Culla,2,culla,503.0,Castellón/Castelló,12.0,51.0,397.61431411530816
+Cuzcurrita de Río Tirón,1,cuzcurrita de rio tiron,565.0,"Rioja, La",26.0,56.0,176.99115044247787
+Càlig,2,calig,2042.0,Castellón/Castelló,12.0,34.0,97.9431929480901
+Cáceres,107,caceres,96651.0,Cáceres,10.0,37.0,110.70759743820553
+Cádiz,176,cadiz,109950.0,Cádiz,11.0,12.0,160.07276034561164
+Cárcar,1,carcar,1156.0,Navarra,31.0,66.0,86.50519031141867
+Cárcheles,1,carcheles,1291.0,Jaén,23.0,901.0,77.45933384972889
+Cármenes,4,carmenes,356.0,León,24.0,37.0,1123.5955056179776
+Córdoba,381,cordoba,323262.0,Córdoba,14.0,21.0,117.86105388199049
+Daimiel,10,daimiel,17722.0,Ciudad Real,13.0,39.0,56.42703983749013
+Daroca de Rioja,1,daroca de rioja,63.0,"Rioja, La",26.0,57.0,1587.3015873015872
+Deba,18,deba,5362.0,Gipuzkoa,20.0,29.0,335.69563595673253
+Deià,16,deia,741.0,"Balears, Illes",7.0,18.0,2159.2442645074225
+Derio,8,derio,7294.0,Bizkaia,48.0,901.0,109.67918837400605
+Dima,6,dima,1531.0,Bizkaia,48.0,26.0,391.90071848465055
+Donamaria,2,donamaria,446.0,Navarra,31.0,81.0,448.43049327354254
+Doneztebe/Santesteban,4,doneztebe/santesteban,1854.0,Navarra,31.0,221.0,215.7497303128371
+Donostia/San Sebastián,334,donostia/san sebastian,189866.0,Gipuzkoa,20.0,69.0,175.9135390222578
+Dueñas,5,duenas,2605.0,Palencia,34.0,69.0,191.93857965451056
+Durango,13,durango,30192.0,Bizkaia,48.0,27.0,43.05776364599894
+Duruelo de la Sierra,1,duruelo de la sierra,1035.0,Soria,42.0,78.0,96.61835748792272
+Durón,1,duron,108.0,Guadalajara,19.0,108.0,925.925925925926
+Ea,1,ea,824.0,Bizkaia,48.0,28.0,121.35922330097088
+Eibar,28,eibar,27484.0,Gipuzkoa,20.0,30.0,101.8774559743851
+Eivissa,101,eivissa,55337.0,"Balears, Illes",7.0,26.0,182.51802591394545
+Ejulve,1,ejulve,172.0,Teruel,44.0,96.0,581.3953488372093
+El Astillero,3,el astillero,,,,,
+El Burgo Ranero,3,el burgo ranero,,,,,
+El Cardoso de la Sierra,1,el cardoso de la sierra,,,,,
+El Casar,11,el casar,,,,,
+El Castellar,0,el castellar,,,,,
+El Cuervo,1,el cuervo,,,,,
+El Franco,7,el franco,,,,,
+El Grado,3,el grado,,,,,
+El Perdigón,6,el perdigon,,,,,
+El Pueyo de Araguás,3,el pueyo de araguas,,,,,
+El Rosario,1,el rosario,,,,,
+El Vallecillo,2,el vallecillo,,,,,
+Elantxobe,1,elantxobe,320.0,Bizkaia,48.0,31.0,312.5
+Elburgo/Burgelu,1,elburgo/burgelu,642.0,Araba/Álava,1.0,21.0,155.7632398753894
+Elciego,5,elciego,971.0,Araba/Álava,1.0,22.0,514.9330587023687
+Elgeta,2,elgeta,1133.0,Gipuzkoa,20.0,33.0,176.522506619594
+Elgoibar,14,elgoibar,11705.0,Gipuzkoa,20.0,32.0,119.6070055531824
+Elgorriaga,2,elgorriaga,210.0,Navarra,31.0,87.0,952.3809523809524
+Elorrio,6,elorrio,7277.0,Bizkaia,48.0,32.0,82.45155970867116
+Encinedo,1,encinedo,621.0,León,24.0,67.0,161.0305958132045
+Enciso,1,enciso,167.0,"Rioja, La",26.0,58.0,598.8023952095808
+Entrala,1,entrala,133.0,Zamora,49.0,61.0,751.8796992481203
+Entrambasaguas,11,entrambasaguas,5693.0,Cantabria,39.0,28.0,193.219743544704
+Enériz/Eneritz,1,eneriz/eneritz,328.0,Navarra,31.0,89.0,304.8780487804878
+Erandio,12,erandio,24659.0,Bizkaia,48.0,902.0,48.663773875664056
+Ereño,1,ereno,275.0,Bizkaia,48.0,33.0,363.6363636363637
+Ergoiena,2,ergoiena,392.0,Navarra,31.0,91.0,510.2040816326531
+Errenteria,33,errenteria,39363.0,Gipuzkoa,20.0,67.0,83.83507354622361
+Errezil,6,errezil,588.0,Gipuzkoa,20.0,66.0,1020.408163265306
+Erriberagoitia/Ribera Alta,2,erriberagoitia/ribera alta,839.0,Araba/Álava,1.0,46.0,238.37902264600717
+Erro,5,erro,812.0,Navarra,31.0,92.0,615.7635467980296
+Es Mercadal,49,es mercadal,,,,,
+Es Migjorn Gran,9,es migjorn gran,,,,,
+Escalante,4,escalante,716.0,Cantabria,39.0,29.0,558.659217877095
+Escorca,14,escorca,199.0,"Balears, Illes",7.0,19.0,7035.175879396985
+Escucha,2,escucha,788.0,Teruel,44.0,99.0,253.8071065989848
+Eskoriatza,5,eskoriatza,4215.0,Gipuzkoa,20.0,34.0,118.62396204033216
+Eslida,1,eslida,815.0,Castellón/Castelló,12.0,57.0,122.6993865030675
+Esporles,10,esporles,5264.0,"Balears, Illes",7.0,20.0,189.9696048632219
+Estada,1,estada,215.0,Huesca,22.0,102.0,465.1162790697674
+Estadilla,2,estadilla,810.0,Huesca,22.0,103.0,246.9135802469136
+Estella-Lizarra,13,estella-lizarra,14317.0,Navarra,31.0,97.0,90.8011454913739
+Estellencs,3,estellencs,369.0,"Balears, Illes",7.0,21.0,813.0081300813008
+Esteribar,8,esteribar,2918.0,Navarra,31.0,98.0,274.16038382453735
+Estopiñán del Castillo,0,estopinan del castillo,147.0,Huesca,22.0,105.0,0.0
+Etxalar,4,etxalar,807.0,Navarra,31.0,82.0,495.6629491945477
+Etxarri Aranatz,7,etxarri aranatz,2551.0,Navarra,31.0,84.0,274.4021952175617
+Etxauri,1,etxauri,671.0,Navarra,31.0,85.0,149.03129657228018
+Etxebarri,5,etxebarri,12038.0,Bizkaia,48.0,29.0,41.53513872736335
+Etxebarria,2,etxebarria,791.0,Bizkaia,48.0,30.0,252.84450063211125
+Eulate,1,eulate,278.0,Navarra,31.0,100.0,359.71223021582733
+Ezcabarte,3,ezcabarte,1901.0,Navarra,31.0,101.0,157.81167806417676
+Ezcaray,12,ezcaray,2067.0,"Rioja, La",26.0,61.0,580.5515239477503
+Ezcároz/Ezkaroze,1,ezcaroz/ezkaroze,298.0,Navarra,31.0,93.0,335.5704697986577
+Ezkio-Itsaso,2,ezkio-itsaso,604.0,Gipuzkoa,20.0,35.0,331.1258278145695
+Ezkurra,1,ezkurra,125.0,Navarra,31.0,102.0,800.0
+Fabero,4,fabero,3998.0,León,24.0,70.0,100.05002501250624
+Falces,1,falces,2389.0,Navarra,31.0,104.0,41.858518208455415
+Fanlo,1,fanlo,114.0,Huesca,22.0,107.0,877.1929824561404
+Fariza,1,fariza,487.0,Zamora,49.0,64.0,205.3388090349076
+Felanitx,57,felanitx,19146.0,"Balears, Illes",7.0,22.0,297.71231588843625
+Fermoselle,1,fermoselle,1131.0,Zamora,49.0,65.0,88.41732979664013
+Ferreras de Abajo,1,ferreras de abajo,461.0,Zamora,49.0,66.0,216.91973969631235
+Ferreries,9,ferreries,5170.0,"Balears, Illes",7.0,23.0,174.08123791102514
+Ferreruela de Huerva,0,ferreruela de huerva,81.0,Teruel,44.0,101.0,0.0
+Fiscal,2,fiscal,358.0,Huesca,22.0,109.0,558.659217877095
+Fitero,2,fitero,2370.0,Navarra,31.0,105.0,84.38818565400844
+Folgoso do Courel,7,folgoso do courel,921.0,Lugo,27.0,17.0,760.0434310532031
+Fonfría,1,fonfria,35.0,Teruel,44.0,102.0,2857.1428571428573
+Fonfría,1,fonfria,794.0,Zamora,49.0,71.0,125.94458438287155
+Fontellas,2,fontellas,1050.0,Navarra,31.0,106.0,190.47619047619045
+Foradada del Toscar,1,foradada del toscar,163.0,Huesca,22.0,111.0,613.4969325153374
+Forcall,3,forcall,475.0,Castellón/Castelló,12.0,61.0,631.578947368421
+Formentera,108,formentera,11661.0,"Balears, Illes",7.0,24.0,926.164136866478
+Fornalutx,7,fornalutx,743.0,"Balears, Illes",7.0,25.0,942.1265141318976
+Foz,19,foz,10329.0,Lugo,27.0,19.0,183.94810727079096
+Fraga,14,fraga,15576.0,Huesca,22.0,112.0,89.88186954288649
+Frailes,5,frailes,1565.0,Jaén,23.0,33.0,319.4888178913738
+Frechilla,1,frechilla,138.0,Palencia,34.0,72.0,724.6376811594204
+Fresno del Río,1,fresno del rio,169.0,Palencia,34.0,73.0,591.7159763313609
+Friol,7,friol,3608.0,Lugo,27.0,20.0,194.0133037694013
+Fruiz,0,fruiz,591.0,Bizkaia,48.0,35.0,0.0
+Frías de Albarracín,1,frias de albarracin,109.0,Teruel,44.0,109.0,917.4311926605504
+Frómista,7,fromista,727.0,Palencia,34.0,74.0,962.8610729023384
+Fuencaliente,1,fuencaliente,1007.0,Ciudad Real,13.0,42.0,99.30486593843098
+Fuenmayor,4,fuenmayor,3281.0,"Rioja, La",26.0,64.0,121.914050594331
+Fuensanta de Martos,5,fuensanta de martos,3030.0,Jaén,23.0,34.0,165.01650165016505
+Fuentelsaz,0,fuentelsaz,82.0,Guadalajara,19.0,122.0,0.0
+Fuentes Calientes,1,fuentes calientes,89.0,Teruel,44.0,111.0,1123.5955056179776
+Fuentes de Ayódar,2,fuentes de ayodar,98.0,Castellón/Castelló,12.0,64.0,2040.8163265306123
+Fuentes de Magaña,1,fuentes de magana,47.0,Soria,42.0,92.0,2127.6595744680853
+Fuentes de Nava,1,fuentes de nava,581.0,Palencia,34.0,76.0,172.1170395869191
+Fuentes de Valdepero,1,fuentes de valdepero,489.0,Palencia,34.0,77.0,204.4989775051125
+Fuentesaúco,1,fuentesauco,1593.0,Zamora,49.0,81.0,62.77463904582549
+Funes,2,funes,2537.0,Navarra,31.0,107.0,78.83326763894364
+Gabiria,1,gabiria,519.0,Gipuzkoa,20.0,38.0,192.67822736030828
+Gaibiel,1,gaibiel,200.0,Castellón/Castelló,12.0,65.0,500.0
+Galar,11,galar,2427.0,Navarra,31.0,109.0,453.23444581788215
+Galdakao,11,galdakao,24776.0,Bizkaia,48.0,36.0,44.39780432676784
+Galdames,3,galdames,829.0,Bizkaia,48.0,37.0,361.881785283474
+Galende,23,galende,1019.0,Zamora,49.0,85.0,2257.1148184494605
+Galve,3,galve,149.0,Teruel,44.0,115.0,2013.4228187919464
+Galve de Sorbe,1,galve de sorbe,97.0,Guadalajara,19.0,127.0,1030.9278350515465
+Galápagos,1,galapagos,2802.0,Guadalajara,19.0,126.0,35.6887937187723
+Gamiz-Fika,3,gamiz-fika,1414.0,Bizkaia,48.0,38.0,212.16407355021215
+Garai,4,garai,332.0,Bizkaia,48.0,39.0,1204.8192771084337
+Garaioa,1,garaioa,92.0,Navarra,31.0,112.0,1086.9565217391305
+Garde,1,garde,132.0,Navarra,31.0,113.0,757.5757575757576
+Gargallo,1,gargallo,88.0,Teruel,44.0,116.0,1136.3636363636365
+Garrafe de Torío,2,garrafe de torio,1649.0,León,24.0,76.0,121.2856276531231
+Garralda,2,garralda,183.0,Navarra,31.0,115.0,1092.896174863388
+Garray,3,garray,794.0,Soria,42.0,94.0,377.8337531486147
+Gatika,5,gatika,1633.0,Bizkaia,48.0,40.0,306.1849357011635
+Gautegiz Arteaga,3,gautegiz arteaga,866.0,Bizkaia,48.0,41.0,346.42032332563514
+Gea de Albarracín,1,gea de albarracin,459.0,Teruel,44.0,117.0,217.86492374727663
+Geldo,3,geldo,665.0,Castellón/Castelló,12.0,67.0,451.1278195488722
+Gernika-Lumo,12,gernika-lumo,17129.0,Bizkaia,48.0,46.0,70.05662910852939
+Getaria,25,getaria,2887.0,Gipuzkoa,20.0,39.0,865.9508139937651
+Getxo,66,getxo,75752.0,Bizkaia,48.0,44.0,87.1264125039603
+Gijón,288,gijon,269894.0,Asturias,33.0,24.0,106.70855965675412
+Girona,279,girona,108666.0,Girona,17.0,79.0,256.750041411297
+Gistaín,1,gistain,114.0,Huesca,22.0,114.0,877.1929824561404
+Gizaburuaga,1,gizaburuaga,196.0,Bizkaia,48.0,47.0,510.2040816326531
+Goizueta,3,goizueta,681.0,Navarra,31.0,117.0,440.5286343612335
+Golmayo,2,golmayo,3085.0,Soria,42.0,95.0,64.82982171799027
+Gordexola,1,gordexola,1720.0,Bizkaia,48.0,42.0,58.13953488372093
+Gorliz,13,gorliz,6034.0,Bizkaia,48.0,43.0,215.44580709313888
+Gozón,43,gozon,10407.0,Asturias,33.0,25.0,413.1834342269626
+Grado,10,grado,9681.0,Asturias,33.0,26.0,103.29511414110114
+Grajal de Campos,1,grajal de campos,200.0,León,24.0,80.0,500.0
+Granada,466,granada,233975.0,Granada,18.0,87.0,199.1665776258147
+Grandas de Salime,3,grandas de salime,767.0,Asturias,33.0,27.0,391.1342894393742
+Granátula de Calatrava,1,granatula de calatrava,683.0,Ciudad Real,13.0,45.0,146.41288433382138
+Graus,4,graus,3400.0,Huesca,22.0,117.0,117.6470588235294
+Grañén,1,granen,1718.0,Huesca,22.0,116.0,58.20721769499418
+Grijota,1,grijota,2839.0,Palencia,34.0,79.0,35.22367030644593
+Guadalajara,34,guadalajara,92834.0,Guadalajara,19.0,130.0,36.62451257082535
+Guardo,7,guardo,5502.0,Palencia,34.0,80.0,127.2264631043257
+Guarromán,8,guarroman,2703.0,Jaén,23.0,39.0,295.9674435812061
+Guesálaz/Gesalatz,1,guesalaz/gesalatz,462.0,Navarra,31.0,120.0,216.4502164502165
+Guitiriz,7,guitiriz,5180.0,Lugo,27.0,22.0,135.13513513513513
+Guntín,4,guntin,2501.0,Lugo,27.0,23.0,159.93602558976409
+Gurrea de Gállego,0,gurrea de gallego,1430.0,Huesca,22.0,119.0,0.0
+Gómara,2,gomara,286.0,Soria,42.0,96.0,699.3006993006993
+Gúdar,2,gudar,73.0,Teruel,44.0,121.0,2739.7260273972606
+Güeñes,5,guenes,6817.0,Bizkaia,48.0,45.0,73.34604664808568
+Harana/Valle de Arana,1,harana/valle de arana,212.0,Araba/Álava,1.0,56.0,471.6981132075472
+Haro,20,haro,12167.0,"Rioja, La",26.0,71.0,164.37905810799705
+Hazas de Cesto,2,hazas de cesto,1957.0,Cantabria,39.0,31.0,102.19724067450178
+Herbers,1,herbers,68.0,Castellón/Castelló,12.0,68.0,1470.5882352941176
+Herencia,2,herencia,8661.0,Ciudad Real,13.0,47.0,23.092021706500404
+Hermandad de Campoo de Suso,13,hermandad de campoo de suso,1619.0,Cantabria,39.0,32.0,802.9647930821495
+Hermisende,1,hermisende,207.0,Zamora,49.0,94.0,483.0917874396136
+Hernani,35,hernani,20375.0,Gipuzkoa,20.0,40.0,171.7791411042945
+Hernialde,2,hernialde,326.0,Gipuzkoa,20.0,41.0,613.4969325153374
+Herrera de Pisuerga,4,herrera de pisuerga,1875.0,Palencia,34.0,83.0,213.33333333333331
+Herrerías,2,herrerias,570.0,Cantabria,39.0,33.0,350.8771929824561
+Higueras,1,higueras,54.0,Castellón/Castelló,12.0,69.0,1851.851851851852
+Hiriberri/Villanueva de Aezkoa,1,hiriberri/villanueva de aezkoa,96.0,Navarra,31.0,256.0,1041.6666666666667
+Hita,1,hita,336.0,Guadalajara,19.0,138.0,297.6190476190476
+Hondarribia,47,hondarribia,16788.0,Gipuzkoa,20.0,36.0,279.96187753157017
+Horcajo de los Montes,3,horcajo de los montes,798.0,Ciudad Real,13.0,49.0,375.9398496240602
+Horche,1,horche,3119.0,Guadalajara,19.0,143.0,32.06155819172812
+Hornos,3,hornos,561.0,Jaén,23.0,43.0,534.75935828877
+Hospital de Órbigo,4,hospital de orbigo,948.0,León,24.0,82.0,421.94092827004215
+Hoz de Jaca,1,hoz de jaca,81.0,Huesca,22.0,122.0,1234.567901234568
+Hoz y Costean,1,hoz y costean,225.0,Huesca,22.0,908.0,444.44444444444446
+Huarte/Uharte,6,huarte/uharte,7900.0,Navarra,31.0,122.0,75.94936708860759
+Huelma,7,huelma,5485.0,Jaén,23.0,44.0,127.6207839562443
+Huelva,68,huelva,143215.0,Huelva,21.0,41.0,47.48105994483818
+Huesa,4,huesa,2411.0,Jaén,23.0,45.0,165.9062629614268
+Huesca,82,huesca,55454.0,Huesca,22.0,125.0,147.87030692105168
+Humanes,1,humanes,1841.0,Guadalajara,19.0,151.0,54.31830526887561
+Huétor Vega,1,huetor vega,12285.0,Granada,18.0,101.0,8.14000814000814
+Híjar,1,hijar,1766.0,Teruel,44.0,122.0,56.62514156285391
+Ibarra,3,ibarra,4114.0,Gipuzkoa,20.0,42.0,72.92173067574137
+Ibarrangelu,4,ibarrangelu,669.0,Bizkaia,48.0,48.0,597.9073243647235
+Ibias,2,ibias,1084.0,Asturias,33.0,28.0,184.50184501845015
+Idiazabal,1,idiazabal,2217.0,Gipuzkoa,20.0,43.0,45.10599909788002
+Igantzi,1,igantzi,578.0,Navarra,31.0,259.0,173.01038062283737
+Igorre,2,igorre,4344.0,Bizkaia,48.0,94.0,46.04051565377532
+Igúzquiza,1,iguzquiza,307.0,Navarra,31.0,125.0,325.73289902280135
+Igüeña,1,iguena,1012.0,León,24.0,83.0,98.81422924901186
+Ikaztegieta,3,ikaztegieta,498.0,Gipuzkoa,20.0,44.0,602.4096385542168
+Illano,1,illano,277.0,Asturias,33.0,29.0,361.01083032490976
+Illas,3,illas,1048.0,Asturias,33.0,30.0,286.25954198473283
+Imotz,3,imotz,433.0,Navarra,31.0,126.0,692.8406466512703
+Inca,32,inca,36262.0,"Balears, Illes",7.0,27.0,88.24664938503116
+Irun,57,irun,63835.0,Gipuzkoa,20.0,45.0,89.29270776219943
+Irura,3,irura,1885.0,Gipuzkoa,20.0,46.0,159.15119363395226
+Iruraiz-Gauna,1,iruraiz-gauna,559.0,Araba/Álava,1.0,27.0,178.89087656529517
+Irurtzun,3,irurtzun,2296.0,Navarra,31.0,904.0,130.66202090592333
+Iruña Oka/Iruña de Oca,3,iruna oka/iruna de oca,3704.0,Araba/Álava,1.0,901.0,80.99352051835854
+Isaba/Izaba,10,isaba/izaba,384.0,Navarra,31.0,128.0,2604.1666666666665
+Ispaster,3,ispaster,721.0,Bizkaia,48.0,49.0,416.0887656033287
+Isábena,4,isabena,234.0,Huesca,22.0,129.0,1709.4017094017092
+Ituren,2,ituren,543.0,Navarra,31.0,129.0,368.3241252302026
+Iurreta,5,iurreta,3897.0,Bizkaia,48.0,910.0,128.30382345393895
+Iza/Itza,3,iza/itza,1459.0,Navarra,31.0,131.0,205.620287868403
+Iznatoraf,1,iznatoraf,874.0,Jaén,23.0,48.0,114.41647597254006
+Jabalquinto,1,jabalquinto,1939.0,Jaén,23.0,49.0,51.57297576070139
+Jaca,48,jaca,14024.0,Huesca,22.0,130.0,342.2703936109526
+Jadraque,4,jadraque,1522.0,Guadalajara,19.0,156.0,262.8120893561104
+Jamilena,1,jamilena,3319.0,Jaén,23.0,51.0,30.129557095510695
+Jasa,1,jasa,90.0,Huesca,22.0,131.0,1111.111111111111
+Jaurrieta,1,jaurrieta,179.0,Navarra,31.0,134.0,558.659217877095
+Javier,2,javier,106.0,Navarra,31.0,135.0,1886.7924528301887
+Jaén,155,jaen,112235.0,Jaén,23.0,50.0,138.10308727224128
+Juslapeña/Txulapain,1,juslapena/txulapain,562.0,Navarra,31.0,136.0,177.93594306049823
+Jérica,2,jerica,1764.0,Castellón/Castelló,12.0,71.0,113.37868480725623
+Jódar,1,jodar,11285.0,Jaén,23.0,53.0,8.861320336730172
+Karrantza Harana/Valle de Carranza,5,karrantza harana/valle de carranza,2715.0,Bizkaia,48.0,22.0,184.1620626151013
+Kortezubi,2,kortezubi,447.0,Bizkaia,48.0,907.0,447.42729306487695
+Kuartango,3,kuartango,402.0,Araba/Álava,1.0,20.0,746.2686567164179
+L'Hospitalet de Llobregat,2,l'hospitalet de llobregat,,,,,
+La Antigua,1,la antigua,,,,,
+La Bañeza,7,la baneza,,,,,
+La Carolina,3,la carolina,,,,,
+La Cerollera,0,la cerollera,,,,,
+La Codoñera,2,la codonera,,,,,
+La Ercina,1,la ercina,,,,,
+La Fresneda,3,la fresneda,,,,,
+La Fueva,2,la fueva,,,,,
+La Guardia de Jaén,4,la guardia de jaen,,,,,
+La Iruela,18,la iruela,,,,,
+La Mierla,0,la mierla,,,,,
+La Pernía,3,la pernia,,,,,
+La Pola de Gordón,7,la pola de gordon,,,,,
+La Puebla de Castro,2,la puebla de castro,,,,,
+La Puebla de Valverde,5,la puebla de valverde,,,,,
+La Puerta de Segura,3,la puerta de segura,,,,,
+La Robla,12,la robla,,,,,
+La Serna,1,la serna,,,,,
+La Solana,1,la solana,,,,,
+La Sotonera,8,la sotonera,,,,,
+La Torre del Valle,2,la torre del valle,,,,,
+La Vecilla,1,la vecilla,,,,,
+Labastida/Bastida,9,labastida/bastida,1558.0,Araba/Álava,1.0,28.0,577.6636713735559
+Labuerda,2,labuerda,179.0,Huesca,22.0,133.0,1117.31843575419
+Lagrán,1,lagran,177.0,Araba/Álava,1.0,30.0,564.9717514124294
+Laguardia,20,laguardia,1459.0,Araba/Álava,1.0,31.0,1370.8019191226867
+Lakuntza,1,lakuntza,1338.0,Navarra,31.0,138.0,74.73841554559044
+Lamasón,1,lamason,237.0,Cantabria,39.0,34.0,421.94092827004215
+Lanestosa,1,lanestosa,244.0,Bizkaia,48.0,51.0,409.8360655737705
+Langreo,56,langreo,38612.0,Asturias,33.0,31.0,145.032632342277
+Lantarón,0,lantaron,929.0,Araba/Álava,1.0,902.0,0.0
+Lantz,1,lantz,150.0,Navarra,31.0,140.0,666.6666666666666
+Lardero,1,lardero,12060.0,"Rioja, La",26.0,84.0,8.291873963515755
+Laredo,32,laredo,10698.0,Cantabria,39.0,35.0,299.12133108992333
+Larouco,1,larouco,484.0,Ourense,32.0,38.0,206.61157024793388
+Larrabetzu,5,larrabetzu,2039.0,Bizkaia,48.0,52.0,245.21824423737127
+Larraga,1,larraga,2158.0,Navarra,31.0,142.0,46.33920296570899
+Larraona,1,larraona,100.0,Navarra,31.0,143.0,1000.0
+Larraul,1,larraul,263.0,Gipuzkoa,20.0,48.0,380.22813688212926
+Larraun,10,larraun,918.0,Navarra,31.0,144.0,1089.3246187363834
+Las Palmas de Gran Canaria,500,las palmas de gran canaria,378517.0,Las Palmas,35.0,26.0,132.09446339266137
+Las Peñas de Riglos,5,las penas de riglos,,,,,
+Las Regueras,7,las regueras,,,,,
+Lasarte-Oria,5,lasarte-oria,19435.0,Gipuzkoa,20.0,902.0,25.72678157962439
+Lascellas-Ponzano,1,lascellas-ponzano,138.0,Huesca,22.0,141.0,724.6376811594204
+Laspuña,0,laspuna,277.0,Huesca,22.0,144.0,0.0
+Laudio/Llodio,5,laudio/llodio,18077.0,Araba/Álava,1.0,36.0,27.659456768269077
+Laukiz,1,laukiz,1239.0,Bizkaia,48.0,53.0,80.71025020177562
+Laviana,15,laviana,12352.0,Asturias,33.0,32.0,121.43782383419688
+Laza,2,laza,1156.0,Ourense,32.0,39.0,173.01038062283737
+Lazkao,6,lazkao,6087.0,Gipuzkoa,20.0,49.0,98.57072449482504
+Leaburu,1,leaburu,390.0,Gipuzkoa,20.0,50.0,256.4102564102564
+Ledanca,1,ledanca,98.0,Guadalajara,19.0,159.0,1020.408163265306
+Legarda,1,legarda,143.0,Navarra,31.0,147.0,699.3006993006993
+Legorreta,1,legorreta,1457.0,Gipuzkoa,20.0,52.0,68.63417982155113
+Legutio,7,legutio,2094.0,Araba/Álava,1.0,58.0,334.2884431709647
+Leintz-Gatzaga,3,leintz-gatzaga,205.0,Gipuzkoa,20.0,68.0,1463.4146341463413
+Leioa,26,leioa,32748.0,Bizkaia,48.0,54.0,79.39416147550996
+Leitza,2,leitza,3011.0,Navarra,31.0,149.0,66.42311524410495
+Lekeitio,9,lekeitio,7211.0,Bizkaia,48.0,57.0,124.80931909582584
+Lekunberri,6,lekunberri,1746.0,Navarra,31.0,908.0,343.6426116838488
+Lemoa,2,lemoa,3614.0,Bizkaia,48.0,55.0,55.340343110127286
+Lemoiz,7,lemoiz,1347.0,Bizkaia,48.0,56.0,519.6733481811433
+Lena,15,lena,10382.0,Asturias,33.0,33.0,144.48083220959353
+Leoz/Leotz,1,leoz/leotz,202.0,Navarra,31.0,150.0,495.049504950495
+Lerga,1,lerga,44.0,Navarra,31.0,151.0,2272.7272727272725
+Lerín,3,lerin,1821.0,Navarra,31.0,152.0,164.74464579901152
+Lesaka,8,lesaka,2721.0,Navarra,31.0,153.0,294.0095553105476
+Leza,1,leza,205.0,Araba/Álava,1.0,34.0,487.8048780487805
+Lezama,7,lezama,2430.0,Bizkaia,48.0,81.0,288.0658436213992
+Lezo,11,lezo,6184.0,Gipuzkoa,20.0,53.0,177.8783958602846
+León,133,leon,123446.0,León,24.0,89.0,107.73941642499555
+Liendo,5,liendo,1218.0,Cantabria,39.0,36.0,410.5090311986864
+Limpias,4,limpias,1983.0,Cantabria,39.0,38.0,201.7145738779627
+Linares,11,linares,55633.0,Jaén,23.0,55.0,19.77243722251182
+Liédena,1,liedena,354.0,Navarra,31.0,155.0,282.4858757062147
+Liérganes,12,lierganes,2365.0,Cantabria,39.0,37.0,507.399577167019
+Llamas de la Ribera,2,llamas de la ribera,783.0,León,24.0,92.0,255.42784163473817
+Llanera,17,llanera,14020.0,Asturias,33.0,35.0,121.25534950071328
+Llanes,110,llanes,13486.0,Asturias,33.0,36.0,815.6606851549755
+Llanos del Caudillo,3,llanos del caudillo,651.0,Ciudad Real,13.0,904.0,460.8294930875576
+Lleida,187,lleida,146266.0,Lleida,25.0,120.0,127.84926093555576
+Lloret de Vistalegre,3,lloret de vistalegre,1691.0,"Balears, Illes",7.0,28.0,177.40981667652275
+Lloseta,4,lloseta,6463.0,"Balears, Illes",7.0,29.0,61.89076280365155
+Llubí,5,llubi,2589.0,"Balears, Illes",7.0,30.0,193.12475859405177
+Llucena/Lucena del Cid,2,llucena/lucena del cid,1421.0,Castellón/Castelló,12.0,72.0,140.74595355383534
+Llucmajor,73,llucmajor,40502.0,"Balears, Illes",7.0,31.0,180.2380129376327
+Loarre,2,loarre,358.0,Huesca,22.0,149.0,558.659217877095
+Lobeira,1,lobeira,703.0,Ourense,32.0,41.0,142.2475106685633
+Lobios,3,lobios,1776.0,Ourense,32.0,42.0,168.9189189189189
+Lodosa,3,lodosa,4964.0,Navarra,31.0,157.0,60.43513295729251
+Logroño,99,logrono,152150.0,"Rioja, La",26.0,89.0,65.06736772921458
+Loiu,7,loiu,2364.0,Bizkaia,48.0,903.0,296.1082910321489
+Lopera,3,lopera,3502.0,Jaén,23.0,56.0,85.66533409480296
+Los Arcos,1,los arcos,,,,,
+Los Corrales de Buelna,11,los corrales de buelna,,,,,
+Los Cortijos,1,los cortijos,,,,,
+Los Olmos,0,los olmos,,,,,
+Los Tojos,9,los tojos,,,,,
+Los Villares,5,los villares,,,,,
+Lourenzá,2,lourenza,2083.0,Lugo,27.0,27.0,96.01536245799328
+Lubián,2,lubian,296.0,Zamora,49.0,100.0,675.6756756756757
+Lucillo,1,lucillo,360.0,León,24.0,90.0,277.77777777777777
+Luena,1,luena,600.0,Cantabria,39.0,39.0,166.66666666666666
+Lugo,145,lugo,100143.0,Lugo,27.0,28.0,144.79294608709546
+Lumbier,4,lumbier,1330.0,Navarra,31.0,159.0,300.7518796992481
+Lumbreras de Cameros,1,lumbreras de cameros,144.0,"Rioja, La",26.0,91.0,694.4444444444445
+Luyego,2,luyego,537.0,León,24.0,91.0,372.43947858473
+Luzaide/Valcarlos,2,luzaide/valcarlos,336.0,Navarra,31.0,248.0,595.2380952380952
+Láncara,1,lancara,2489.0,Lugo,27.0,26.0,40.17677782241864
+Lónguida/Longida,1,longuida/longida,308.0,Navarra,31.0,158.0,324.6753246753247
+Maceda,4,maceda,2874.0,Ourense,32.0,43.0,139.17884481558804
+Madrid,4848,madrid,3506730.0,Madrid,28.0,79.0,138.2484536876235
+Magaz de Pisuerga,0,magaz de pisuerga,1065.0,Palencia,34.0,98.0,0.0
+Majaelrayo,1,majaelrayo,60.0,Guadalajara,19.0,165.0,1666.6666666666667
+Malaguilla,1,malaguilla,218.0,Guadalajara,19.0,167.0,458.7155963302752
+Mallabia,2,mallabia,1106.0,Bizkaia,48.0,58.0,180.83182640144665
+Manacor,105,manacor,49153.0,"Balears, Illes",7.0,33.0,213.6187007914064
+Mancha Real,10,mancha real,11481.0,Jaén,23.0,58.0,87.10042679209128
+Mancor de la Vall,2,mancor de la vall,1692.0,"Balears, Illes",7.0,34.0,118.20330969267138
+Mansilla de las Mulas,5,mansilla de las mulas,1706.0,León,24.0,94.0,293.08323563892145
+Manzanal de Arriba,2,manzanal de arriba,332.0,Zamora,49.0,110.0,602.4096385542168
+Manzanares,5,manzanares,17728.0,Ciudad Real,13.0,53.0,28.203971119133573
+Manzaneda,2,manzaneda,767.0,Ourense,32.0,44.0,260.7561929595828
+Manzanera,1,manzanera,530.0,Teruel,44.0,143.0,188.67924528301887
+Maranchón,5,maranchon,225.0,Guadalajara,19.0,170.0,2222.222222222222
+Maraña,1,marana,103.0,León,24.0,96.0,970.8737864077668
+Marchamalo,4,marchamalo,8714.0,Guadalajara,19.0,171.0,45.90314436538903
+Marcilla,3,marcilla,2938.0,Navarra,31.0,163.0,102.11027910142954
+Maria de la Salut,2,maria de la salut,2461.0,"Balears, Illes",7.0,35.0,81.26777732629013
+Marina de Cudeyo,7,marina de cudeyo,5221.0,Cantabria,39.0,40.0,134.07393219689715
+Markina-Xemein,6,markina-xemein,5089.0,Bizkaia,48.0,60.0,117.90135586559246
+Marmolejo,12,marmolejo,6412.0,Jaén,23.0,59.0,187.1490954460387
+Marratxí,34,marratxi,40422.0,"Balears, Illes",7.0,36.0,84.11261194399088
+Martos,13,martos,24462.0,Jaén,23.0,60.0,53.14365137764696
+Martín del Río,1,martin del rio,367.0,Teruel,44.0,144.0,272.4795640326976
+Maruri-Jatabe,4,maruri-jatabe,1129.0,Bizkaia,48.0,61.0,354.295837023915
+Mas de las Matas,1,mas de las matas,1230.0,Teruel,44.0,145.0,81.30081300813008
+Masegoso de Tajuña,1,masegoso de tajuna,84.0,Guadalajara,19.0,172.0,1190.4761904761904
+Maside,1,maside,2768.0,Ourense,32.0,45.0,36.127167630057805
+Matalebreras,3,matalebreras,81.0,Soria,42.0,110.0,3703.703703703704
+Mazcuerras,5,mazcuerras,2068.0,Cantabria,39.0,41.0,241.77949709864603
+Mañaria,1,manaria,539.0,Bizkaia,48.0,59.0,185.5287569573284
+Maó,54,mao,30666.0,"Balears, Illes",7.0,32.0,176.09078458227353
+Medinaceli,8,medinaceli,686.0,Soria,42.0,113.0,1166.1807580174927
+Medio Cudeyo,14,medio cudeyo,7775.0,Cantabria,39.0,42.0,180.06430868167203
+Medrano,0,medrano,350.0,"Rioja, La",26.0,96.0,0.0
+Meira,3,meira,1773.0,Lugo,27.0,29.0,169.20473773265653
+Melilla,21,melilla,86780.0,Melilla,52.0,1.0,24.199124222171008
+Melón,0,melon,1079.0,Ourense,32.0,46.0,0.0
+Membrilla,1,membrilla,5793.0,Ciudad Real,13.0,54.0,17.262213015708614
+Mendaro,3,mendaro,2028.0,Gipuzkoa,20.0,901.0,147.92899408284023
+Mendata,2,mendata,382.0,Bizkaia,48.0,62.0,523.5602094240837
+Mendavia,1,mendavia,3588.0,Navarra,31.0,165.0,27.870680044593087
+Mendaza,1,mendaza,284.0,Navarra,31.0,166.0,352.11267605633805
+Mendexa,2,mendexa,426.0,Bizkaia,48.0,63.0,469.4835680751174
+Mendigorria,1,mendigorria,1261.0,Navarra,31.0,167.0,79.30214115781126
+Meneses de Campos,0,meneses de campos,109.0,Palencia,34.0,106.0,0.0
+Mengíbar,3,mengibar,10250.0,Jaén,23.0,61.0,29.26829268292683
+Meruelo,4,meruelo,2321.0,Cantabria,39.0,43.0,172.33950883239982
+Meñaka,3,menaka,789.0,Bizkaia,48.0,64.0,380.2281368821293
+Miengo,11,miengo,5265.0,Cantabria,39.0,44.0,208.92687559354223
+Mieres,52,mieres,369.0,Girona,17.0,105.0,14092.140921409213
+Mieres,52,mieres,36373.0,Asturias,33.0,37.0,142.96318697935283
+Miguelturra,2,miguelturra,15924.0,Ciudad Real,13.0,56.0,12.559658377292138
+Milagro,1,milagro,3741.0,Navarra,31.0,169.0,26.73082063619353
+Mirabueno,1,mirabueno,86.0,Guadalajara,19.0,186.0,1162.7906976744189
+Mirambel,2,mirambel,110.0,Teruel,44.0,149.0,1818.181818181818
+Miranda de Arga,1,miranda de arga,903.0,Navarra,31.0,171.0,110.74197120708747
+Miño de Medinaceli,1,mino de medinaceli,73.0,Soria,42.0,115.0,1369.8630136986303
+Molina de Aragón,11,molina de aragon,3281.0,Guadalajara,19.0,190.0,335.26363913441025
+Molinaseca,11,molinaseca,870.0,León,24.0,100.0,1264.3678160919542
+Molledo,1,molledo,1482.0,Cantabria,39.0,46.0,67.47638326585695
+Mombuey,3,mombuey,395.0,Zamora,49.0,121.0,759.4936708860758
+Moncofa,11,moncofa,8339.0,Castellón/Castelló,12.0,77.0,131.91030099532318
+Mondoñedo,6,mondonedo,3303.0,Lugo,27.0,30.0,181.65304268846504
+Mondéjar,1,mondejar,2918.0,Guadalajara,19.0,192.0,34.27004797806717
+Monfarracinos,1,monfarracinos,998.0,Zamora,49.0,122.0,100.2004008016032
+Monflorite-Lascasas,2,monflorite-lascasas,475.0,Huesca,22.0,156.0,421.0526315789474
+Monforte de Lemos,17,monforte de lemos,18933.0,Lugo,27.0,31.0,89.79031320973961
+Monreal del Campo,4,monreal del campo,2578.0,Teruel,44.0,153.0,155.1590380139643
+Monreal/Elo,1,monreal/elo,511.0,Navarra,31.0,172.0,195.69471624266143
+Monroyo,1,monroyo,324.0,Teruel,44.0,154.0,308.641975308642
+Montamarta,3,montamarta,549.0,Zamora,49.0,123.0,546.448087431694
+Montanejos,6,montanejos,649.0,Castellón/Castelló,12.0,79.0,924.4992295839752
+Montanuy,1,montanuy,230.0,Huesca,22.0,157.0,434.7826086956522
+Montederramo,1,montederramo,660.0,Ourense,32.0,49.0,151.51515151515153
+Monterrei,1,monterrei,2403.0,Ourense,32.0,50.0,41.614648356221394
+Monterroso,9,monterroso,3744.0,Lugo,27.0,32.0,240.3846153846154
+Montuïri,10,montuiri,3289.0,"Balears, Illes",7.0,38.0,304.04378230465187
+Montán,1,montan,429.0,Castellón/Castelló,12.0,78.0,233.10023310023308
+Monzón,2,monzon,18525.0,Huesca,22.0,158.0,10.796221322537113
+Monzón de Campos,1,monzon de campos,608.0,Palencia,34.0,108.0,164.4736842105263
+Mora de Rubielos,3,mora de rubielos,1752.0,Teruel,44.0,158.0,171.23287671232876
+Moral de Calatrava,1,moral de calatrava,5184.0,Ciudad Real,13.0,58.0,19.290123456790123
+Morales de Toro,1,morales de toro,918.0,Zamora,49.0,129.0,108.93246187363832
+Morales del Vino,3,morales del vino,3040.0,Zamora,49.0,127.0,98.6842105263158
+Moralina,1,moralina,211.0,Zamora,49.0,131.0,473.9336492890996
+Moratilla de los Meleros,1,moratilla de los meleros,106.0,Guadalajara,19.0,194.0,943.3962264150944
+Moratinos,2,moratinos,55.0,Palencia,34.0,109.0,3636.363636363636
+Morcín,3,morcin,2460.0,Asturias,33.0,38.0,121.95121951219512
+Morella,7,morella,2501.0,Castellón/Castelló,12.0,80.0,279.88804478208715
+Morga,3,morga,416.0,Bizkaia,48.0,66.0,721.1538461538462
+Morón de Almazán,0,moron de almazan,196.0,Soria,42.0,123.0,0.0
+Mosqueruela,0,mosqueruela,563.0,Teruel,44.0,160.0,0.0
+Muelas del Pan,1,muelas del pan,592.0,Zamora,49.0,135.0,168.91891891891893
+Mundaka,5,mundaka,1816.0,Bizkaia,48.0,68.0,275.3303964757709
+Mungia,16,mungia,18129.0,Bizkaia,48.0,69.0,88.25638479783771
+Muniesa,1,muniesa,575.0,Teruel,44.0,161.0,173.91304347826087
+Munitibar-Arbatzegi Gerrikaitz,2,munitibar-arbatzegi gerrikaitz,467.0,Bizkaia,48.0,7.0,428.2655246252677
+Muras,2,muras,577.0,Lugo,27.0,33.0,346.6204506065858
+Murchante,3,murchante,4230.0,Navarra,31.0,176.0,70.92198581560284
+Murcia,239,murcia,479405.0,Murcia,30.0,30.0,49.8534641899855
+Murias de Paredes,1,murias de paredes,337.0,León,24.0,101.0,296.7359050445104
+Muriel Viejo,1,muriel viejo,73.0,Soria,42.0,125.0,1369.8630136986303
+Muriel de la Fuente,2,muriel de la fuente,53.0,Soria,42.0,124.0,3773.5849056603774
+Murillo de Río Leza,1,murillo de rio leza,1656.0,"Rioja, La",26.0,99.0,60.3864734299517
+Muro,47,muro,8398.0,"Balears, Illes",7.0,39.0,559.6570612050489
+Muros de Nalón,6,muros de nalon,1955.0,Asturias,33.0,39.0,306.9053708439898
+Murueta,1,murueta,311.0,Bizkaia,48.0,908.0,321.54340836012864
+Muruzábal,1,muruzabal,283.0,Navarra,31.0,180.0,353.356890459364
+Muskiz,9,muskiz,7465.0,Bizkaia,48.0,71.0,120.56262558606832
+Mutiloa,2,mutiloa,261.0,Gipuzkoa,20.0,57.0,766.2835249042146
+Mutriku,10,mutriku,5238.0,Gipuzkoa,20.0,56.0,190.91256204658265
+Muxika,6,muxika,1546.0,Bizkaia,48.0,67.0,388.098318240621
+Muíños,1,muinos,1385.0,Ourense,32.0,51.0,72.20216606498195
+Málaga,652,malaga,599063.0,Málaga,29.0,67.0,108.83663320886116
+Nabarniz,0,nabarniz,264.0,Bizkaia,48.0,909.0,0.0
+Nava,9,nava,5244.0,Asturias,33.0,40.0,171.62471395881008
+Navajas,1,navajas,906.0,Castellón/Castelló,12.0,81.0,110.37527593818984
+Naval,1,naval,281.0,Huesca,22.0,160.0,355.87188612099646
+Navaleno,3,navaleno,698.0,Soria,42.0,129.0,429.7994269340974
+Navarrete,6,navarrete,3061.0,"Rioja, La",26.0,105.0,196.0143743874551
+Navas de Estena,3,navas de estena,269.0,Ciudad Real,13.0,60.0,1115.2416356877322
+Navia,18,navia,8031.0,Asturias,33.0,41.0,224.13149047441163
+Navia de Suarna,1,navia de suarna,971.0,Lugo,27.0,34.0,102.98661174047372
+Negueira de Muñiz,1,negueira de muniz,236.0,Lugo,27.0,35.0,423.728813559322
+Noalejo,2,noalejo,1721.0,Jaén,23.0,64.0,116.21150493898897
+Noceda del Bierzo,1,noceda del bierzo,603.0,León,24.0,102.0,165.8374792703151
+Nogueira de Ramuín,7,nogueira de ramuin,2074.0,Ourense,32.0,52.0,337.5120540019286
+Noja,43,noja,2661.0,Cantabria,39.0,47.0,1615.933859451334
+Noreña,11,norena,5131.0,Asturias,33.0,42.0,214.38316117715848
+Nueno,3,nueno,568.0,Huesca,22.0,163.0,528.169014084507
+Nules,1,nules,14315.0,Castellón/Castelló,12.0,82.0,6.985679357317499
+Nájera,6,najera,8336.0,"Rioja, La",26.0,102.0,71.97696737044146
+O Barco de Valdeorras,10,o barco de valdeorras,,,,,
+O Bolo,2,o bolo,,,,,
+O Carballiño,23,o carballino,,,,,
+O Corgo,7,o corgo,,,,,
+O Incio,1,o incio,,,,,
+O Irixo,0,o irixo,,,,,
+O Pereiro de Aguiar,1,o pereiro de aguiar,,,,,
+O Saviñao,9,o savinao,,,,,
+O Vicedo,4,o vicedo,,,,,
+Ochagavía/Otsagabia,7,ochagavia/otsagabia,492.0,Navarra,31.0,185.0,1422.7642276422764
+Oiartzun,33,oiartzun,10480.0,Gipuzkoa,20.0,63.0,314.8854961832061
+Oiz,1,oiz,129.0,Navarra,31.0,187.0,775.1937984496125
+Okondo,4,okondo,1184.0,Araba/Álava,1.0,42.0,337.83783783783787
+Olaberria,4,olaberria,938.0,Gipuzkoa,20.0,58.0,426.4392324093817
+Olaibar,2,olaibar,399.0,Navarra,31.0,188.0,501.2531328320802
+Olazti/Olazagutía,2,olazti/olazagutia,1444.0,Navarra,31.0,189.0,138.50415512465375
+Olba,1,olba,286.0,Teruel,44.0,171.0,349.65034965034965
+Oliete,0,oliete,351.0,Teruel,44.0,172.0,0.0
+Olite/Erriberri,8,olite/erriberri,4069.0,Navarra,31.0,191.0,196.6085033177685
+Ollauri,1,ollauri,319.0,"Rioja, La",26.0,111.0,313.4796238244514
+Olmeda de Cobeta,1,olmeda de cobeta,56.0,Guadalajara,19.0,201.0,1785.7142857142858
+Onda,12,onda,26190.0,Castellón/Castelló,12.0,84.0,45.81901489117983
+Ondarroa,5,ondarroa,8060.0,Bizkaia,48.0,73.0,62.034739454094286
+Onzonilla,1,onzonilla,1974.0,León,24.0,105.0,50.65856129685917
+Onís,8,onis,739.0,Asturias,33.0,43.0,1082.5439783491204
+Orbaizeta,2,orbaizeta,186.0,Navarra,31.0,195.0,1075.268817204301
+Orbara,1,orbara,28.0,Navarra,31.0,196.0,3571.428571428572
+Orcera,2,orcera,1715.0,Jaén,23.0,65.0,116.61807580174928
+Ordizia,6,ordizia,10815.0,Gipuzkoa,20.0,76.0,55.47850208044383
+Orea,1,orea,191.0,Guadalajara,19.0,204.0,523.5602094240837
+Orendain,0,orendain,245.0,Gipuzkoa,20.0,905.0,0.0
+Orihuela del Tremedal,1,orihuela del tremedal,450.0,Teruel,44.0,174.0,222.22222222222223
+Orio,10,orio,6184.0,Gipuzkoa,20.0,61.0,161.70763260025873
+Orkoien,2,orkoien,4098.0,Navarra,31.0,906.0,48.804294777940456
+Ormaiztegi,1,ormaiztegi,1293.0,Gipuzkoa,20.0,62.0,77.33952049497293
+Oroz-Betelu/Orotz-Betelu,1,oroz-betelu/orotz-betelu,143.0,Navarra,31.0,199.0,699.3006993006993
+Orozko,4,orozko,2666.0,Bizkaia,48.0,75.0,150.03750937734435
+Orpesa/Oropesa del Mar,20,orpesa/oropesa del mar,12640.0,Castellón/Castelló,12.0,85.0,158.2278481012658
+Orreaga/Roncesvalles,1,orreaga/roncesvalles,25.0,Navarra,31.0,211.0,4000.0
+Ortigosa de Cameros,1,ortigosa de cameros,214.0,"Rioja, La",26.0,112.0,467.2897196261682
+Ortuella,5,ortuella,8735.0,Bizkaia,48.0,83.0,57.24098454493417
+Oseja de Sajambre,1,oseja de sajambre,214.0,León,24.0,106.0,467.2897196261682
+Osorno la Mayor,1,osorno la mayor,1180.0,Palencia,34.0,901.0,84.74576271186442
+Otxandio,3,otxandio,1322.0,Bizkaia,48.0,72.0,226.928895612708
+Ourense,51,ourense,105769.0,Ourense,32.0,54.0,48.21828702171714
+Ourol,2,ourol,965.0,Lugo,27.0,38.0,207.2538860103627
+Outeiro de Rei,7,outeiro de rei,5420.0,Lugo,27.0,39.0,129.15129151291512
+Oviedo,378,oviedo,223968.0,Asturias,33.0,44.0,168.77411058722674
+Oyón-Oion,2,oyon-oion,3476.0,Araba/Álava,1.0,43.0,57.53739930955121
+Oñati,24,onati,11480.0,Gipuzkoa,20.0,59.0,209.05923344947732
+Palas de Rei,8,palas de rei,3227.0,Lugo,27.0,40.0,247.9082739386427
+Palencia,74,palencia,77466.0,Palencia,34.0,120.0,95.52577905145483
+Palma,617,palma,434786.0,"Balears, Illes",7.0,40.0,141.90889311063376
+Pamplona/Iruña,190,pamplona/iruna,209094.0,Navarra,31.0,201.0,90.8682219480234
+Panticosa,16,panticosa,910.0,Huesca,22.0,170.0,1758.241758241758
+Pantón,1,panton,2350.0,Lugo,27.0,41.0,42.5531914893617
+Parada de Sil,7,parada de sil,500.0,Ourense,32.0,57.0,1400.0
+Paradela,4,paradela,1557.0,Lugo,27.0,42.0,256.9043031470777
+Paredes de Nava,4,paredes de nava,1927.0,Palencia,34.0,123.0,207.5765438505449
+Pareja,1,pareja,493.0,Guadalajara,19.0,211.0,202.83975659229208
+Parres,13,parres,5150.0,Asturias,33.0,45.0,252.42718446601944
+Parzonería general de Guipuzkoa y Araba/Álava,2,parzoneria general de guipuzkoa y araba/alava,,,,,
+Pasaia,17,pasaia,15820.0,Gipuzkoa,20.0,64.0,107.45891276864728
+Pastrana,8,pastrana,971.0,Guadalajara,19.0,212.0,823.8928939237899
+Peal de Becerro,5,peal de becerro,5290.0,Jaén,23.0,66.0,94.5179584120983
+Pedrafita do Cebreiro,7,pedrafita do cebreiro,868.0,Lugo,27.0,45.0,806.4516129032257
+Pedro Muñoz,3,pedro munoz,7585.0,Ciudad Real,13.0,61.0,39.55174686882004
+Pegalajar,5,pegalajar,2830.0,Jaén,23.0,67.0,176.67844522968198
+Peleas de Abajo,1,peleas de abajo,248.0,Zamora,49.0,148.0,403.2258064516129
+Penagos,11,penagos,2253.0,Cantabria,39.0,48.0,488.2379050155348
+Peníscola/Peñíscola,40,peniscola/peniscola,8774.0,Castellón/Castelló,12.0,89.0,455.8924093913837
+Peracense,2,peracense,68.0,Teruel,44.0,180.0,2941.176470588235
+Peralejos de las Truchas,3,peralejos de las truchas,148.0,Guadalajara,19.0,216.0,2027.027027027027
+Perales del Alfambra,1,perales del alfambra,293.0,Teruel,44.0,182.0,341.29692832764505
+Peralta/Azkoien,6,peralta/azkoien,6071.0,Navarra,31.0,202.0,98.83050568275408
+Perilla de Castro,1,perilla de castro,150.0,Zamora,49.0,153.0,666.6666666666666
+Pesaguero,3,pesaguero,275.0,Cantabria,39.0,50.0,1090.909090909091
+Pesoz,1,pesoz,134.0,Asturias,33.0,48.0,746.2686567164179
+Pesquera,1,pesquera,72.0,Cantabria,39.0,51.0,1388.888888888889
+Petra,6,petra,3231.0,"Balears, Illes",7.0,41.0,185.70102135561743
+Peñalba,4,penalba,657.0,Huesca,22.0,172.0,608.8280060882801
+Peñamellera Alta,4,penamellera alta,500.0,Asturias,33.0,46.0,800.0
+Peñamellera Baja,4,penamellera baja,1194.0,Asturias,33.0,47.0,335.00837520938023
+Peñarroya de Tastavins,1,penarroya de tastavins,467.0,Teruel,44.0,179.0,214.13276231263384
+Peñarrubia,1,penarrubia,301.0,Cantabria,39.0,49.0,332.22591362126246
+Picón,1,picon,690.0,Ciudad Real,13.0,62.0,144.92753623188406
+Piedrabuena,1,piedrabuena,4305.0,Ciudad Real,13.0,63.0,23.2288037166086
+Piloña,19,pilona,6716.0,Asturias,33.0,49.0,282.9064919594997
+Pioz,1,pioz,5261.0,Guadalajara,19.0,220.0,19.00779319521004
+Pitarque,1,pitarque,62.0,Teruel,44.0,183.0,1612.9032258064517
+Piélagos,32,pielagos,26901.0,Cantabria,39.0,52.0,118.95468569941636
+Piña de Campos,1,pina de campos,185.0,Palencia,34.0,130.0,540.5405405405405
+Piñor,0,pinor,1103.0,Ourense,32.0,61.0,0.0
+Plan,2,plan,272.0,Huesca,22.0,182.0,735.2941176470588
+Plentzia,15,plentzia,4407.0,Bizkaia,48.0,77.0,340.3675970047652
+Pobladura del Valle,3,pobladura del valle,269.0,Zamora,49.0,159.0,1115.2416356877322
+Poblete,3,poblete,2998.0,Ciudad Real,13.0,64.0,100.0667111407605
+Pol,2,pol,1550.0,Lugo,27.0,46.0,129.03225806451613
+Polaciones,4,polaciones,209.0,Cantabria,39.0,53.0,1913.8755980861245
+Polanco,1,polanco,6304.0,Cantabria,39.0,54.0,15.862944162436548
+Pollença,106,pollenca,17807.0,"Balears, Illes",7.0,42.0,595.2715224349975
+Pomar de Valdivia,1,pomar de valdivia,488.0,Palencia,34.0,135.0,204.91803278688525
+Ponferrada,97,ponferrada,63186.0,León,24.0,115.0,153.51501914981168
+Ponga,5,ponga,576.0,Asturias,33.0,50.0,868.0555555555555
+Pontevedra,91,pontevedra,83316.0,Pontevedra,36.0,38.0,109.22271832541168
+Porcuna,2,porcuna,5936.0,Jaén,23.0,69.0,33.692722371967655
+Porreres,2,porreres,5892.0,"Balears, Illes",7.0,43.0,33.944331296673454
+Porto,1,porto,147.0,Zamora,49.0,162.0,680.2721088435375
+Portomarín,11,portomarin,1277.0,Lugo,27.0,49.0,861.3938919342208
+Portugalete,21,portugalete,44843.0,Bizkaia,48.0,78.0,46.83005151305667
+Posada de Valdeón,8,posada de valdeon,392.0,León,24.0,116.0,2040.8163265306123
+Potes,37,potes,1323.0,Cantabria,39.0,55.0,2796.674225245654
+Poveda de la Sierra,1,poveda de la sierra,99.0,Guadalajara,19.0,223.0,1010.1010101010102
+Pozo Alcón,1,pozo alcon,4514.0,Jaén,23.0,70.0,22.15330084182543
+Pozuelo de Tábara,1,pozuelo de tabara,150.0,Zamora,49.0,164.0,666.6666666666666
+Pradejón,1,pradejon,3742.0,"Rioja, La",26.0,117.0,26.72367717797969
+Pradillo,1,pradillo,64.0,"Rioja, La",26.0,118.0,1562.4999999999998
+Pravia,17,pravia,7792.0,Asturias,33.0,51.0,218.17248459958927
+Priaranza del Bierzo,1,priaranza del bierzo,672.0,León,24.0,119.0,148.8095238095238
+Proaza,6,proaza,686.0,Asturias,33.0,52.0,874.6355685131196
+Prádanos de Ojeda,0,pradanos de ojeda,181.0,Palencia,34.0,139.0,0.0
+Préjano,0,prejano,206.0,"Rioja, La",26.0,119.0,0.0
+Puebla de Lillo,7,puebla de lillo,641.0,León,24.0,121.0,1092.0436817472698
+Puebla de Sanabria,18,puebla de sanabria,1378.0,Zamora,49.0,166.0,1306.2409288824383
+Puente Viesgo,7,puente viesgo,2893.0,Cantabria,39.0,56.0,241.96335983408227
+Puente de Domingo Flórez,1,puente de domingo florez,1348.0,León,24.0,122.0,74.1839762611276
+Puente de Génave,5,puente de genave,2191.0,Jaén,23.0,71.0,228.20629849383843
+Puente de Montañana,3,puente de montanana,87.0,Huesca,22.0,188.0,3448.2758620689656
+Puente la Reina de Jaca,2,puente la reina de jaca,248.0,Huesca,22.0,902.0,806.4516129032259
+Puente la Reina/Gares,10,puente la reina/gares,2972.0,Navarra,31.0,206.0,336.47375504710635
+Puerto Lápice,5,puerto lapice,824.0,Ciudad Real,13.0,70.0,606.7961165048544
+Puertollano,27,puertollano,45565.0,Ciudad Real,13.0,71.0,59.25600790080105
+Puertomingalvo,3,puertomingalvo,135.0,Teruel,44.0,193.0,2222.222222222222
+Pueyo/Puiu,1,pueyo/puiu,384.0,Navarra,31.0,207.0,260.4166666666667
+Puigpunyent,5,puigpunyent,2049.0,"Balears, Illes",7.0,45.0,244.0214738897023
+Puértolas,4,puertolas,217.0,Huesca,22.0,189.0,1843.3179723502303
+Páramo del Sil,1,paramo del sil,1141.0,León,24.0,110.0,87.64241893076249
+Quer,1,quer,1080.0,Guadalajara,19.0,230.0,92.59259259259258
+Quesada,10,quesada,4901.0,Jaén,23.0,73.0,204.03999183840037
+Quintana Redonda,1,quintana redonda,499.0,Soria,42.0,144.0,200.4008016032064
+Quintana del Castillo,2,quintana del castillo,699.0,León,24.0,123.0,286.1230329041488
+Quintana del Puente,4,quintana del puente,248.0,Palencia,34.0,141.0,1612.9032258064517
+Quintanilla de Urz,2,quintanilla de urz,98.0,Zamora,49.0,170.0,2040.8163265306123
+Quiroga,3,quiroga,3040.0,Lugo,27.0,50.0,98.6842105263158
+Quirós,10,quiros,1142.0,Asturias,33.0,53.0,875.6567425569177
+Rabanales,3,rabanales,497.0,Zamora,49.0,172.0,603.6217303822938
+Ramales de la Victoria,6,ramales de la victoria,3099.0,Cantabria,39.0,57.0,193.6108422071636
+Rasines,1,rasines,980.0,Cantabria,39.0,58.0,102.04081632653062
+Reinosa,10,reinosa,8570.0,Cantabria,39.0,59.0,116.68611435239208
+Reinoso de Cerrato,1,reinoso de cerrato,58.0,Palencia,34.0,146.0,1724.1379310344828
+Reocín,12,reocin,8389.0,Cantabria,39.0,60.0,143.0444629872452
+Requejo,3,requejo,107.0,Zamora,49.0,174.0,2803.7383177570096
+Retortillo de Soria,0,retortillo de soria,126.0,Soria,42.0,155.0,0.0
+Riaño,7,riano,476.0,León,24.0,130.0,1470.5882352941176
+Ribadavia,8,ribadavia,4895.0,Ourense,32.0,69.0,163.43207354443308
+Ribadedeva,14,ribadedeva,1693.0,Asturias,33.0,55.0,826.9344359125812
+Ribadeo,35,ribadeo,10022.0,Lugo,27.0,51.0,349.23169028138096
+Ribadesella,43,ribadesella,5591.0,Asturias,33.0,56.0,769.0931854766588
+Ribaforada,3,ribaforada,3697.0,Navarra,31.0,208.0,81.14687584527995
+Ribamontán al Mar,24,ribamontan al mar,4605.0,Cantabria,39.0,61.0,521.1726384364821
+Ribamontán al Monte,7,ribamontan al monte,2535.0,Cantabria,39.0,62.0,276.1341222879684
+Ribas de Sil,2,ribas de sil,894.0,Lugo,27.0,52.0,223.71364653243847
+Ribeira de Piquín,1,ribeira de piquin,549.0,Lugo,27.0,53.0,182.1493624772313
+Ribera Baja/Erriberabeitia,1,ribera baja/erriberabeitia,1477.0,Araba/Álava,1.0,47.0,67.70480704129993
+Ribera de Arriba,4,ribera de arriba,1852.0,Asturias,33.0,57.0,215.98272138228944
+Riego de la Vega,0,riego de la vega,697.0,León,24.0,131.0,0.0
+Riello,2,riello,570.0,León,24.0,132.0,350.8771929824561
+Riodeva,0,riodeva,113.0,Teruel,44.0,196.0,0.0
+Riofrío de Aliste,1,riofrio de aliste,589.0,Zamora,49.0,176.0,169.7792869269949
+Rionansa,6,rionansa,1022.0,Cantabria,39.0,63.0,587.0841487279844
+Rionegro del Puente,2,rionegro del puente,224.0,Zamora,49.0,177.0,892.8571428571429
+Riosa,3,riosa,1686.0,Asturias,33.0,58.0,177.93594306049823
+Rioseco de Soria,1,rioseco de soria,123.0,Soria,42.0,158.0,813.0081300813008
+Rioseco de Tapia,1,rioseco de tapia,409.0,León,24.0,133.0,244.49877750611248
+Riotorto,1,riotorto,1182.0,Lugo,27.0,54.0,84.60236886632825
+Riotuerto,2,riotuerto,1682.0,Cantabria,39.0,64.0,118.90606420927466
+Riós,2,rios,1379.0,Ourense,32.0,71.0,145.032632342277
+Robres,1,robres,524.0,Huesca,22.0,197.0,190.83969465648852
+Romanzado/Erromantzatua,2,romanzado/erromantzatua,180.0,Navarra,31.0,209.0,1111.111111111111
+Roncal/Erronkari,1,roncal/erronkari,206.0,Navarra,31.0,210.0,485.4368932038834
+Roperuelos del Páramo,1,roperuelos del paramo,502.0,León,24.0,136.0,199.203187250996
+Rossell,5,rossell,910.0,Castellón/Castelló,12.0,96.0,549.4505494505494
+Royuela,1,royuela,229.0,Teruel,44.0,198.0,436.6812227074236
+Rubielos de Mora,1,rubielos de mora,600.0,Teruel,44.0,201.0,166.66666666666666
+Ruente,12,ruente,1083.0,Cantabria,39.0,66.0,1108.03324099723
+Ruesga,2,ruesga,810.0,Cantabria,39.0,67.0,246.9135802469136
+Ruidera,5,ruidera,529.0,Ciudad Real,13.0,902.0,945.1795841209828
+Ruiloba,4,ruiloba,769.0,Cantabria,39.0,68.0,520.1560468140442
+Rábade,2,rabade,1514.0,Lugo,27.0,56.0,132.1003963011889
+Ródenas,1,rodenas,57.0,Teruel,44.0,197.0,1754.3859649122808
+Sa Pobla,14,sa pobla,,,,,
+Sabiñánigo,21,sabinanigo,9695.0,Huesca,22.0,199.0,216.60649819494583
+Sacecorbo,1,sacecorbo,90.0,Guadalajara,19.0,244.0,1111.111111111111
+Sacedón,5,sacedon,1623.0,Guadalajara,19.0,245.0,308.0714725816389
+Sahagún,2,sahagun,2380.0,León,24.0,139.0,84.03361344537815
+Sahún,0,sahun,320.0,Huesca,22.0,200.0,0.0
+Sajazarra,1,sajazarra,123.0,"Rioja, La",26.0,128.0,813.0081300813008
+Salamanca,205,salamanca,146110.0,Salamanca,37.0,274.0,140.30524946957772
+Salas,10,salas,4771.0,Asturias,33.0,59.0,209.59966464053656
+Saldaña,7,saldana,2844.0,Palencia,34.0,157.0,246.13220815752464
+Salduero,3,salduero,148.0,Soria,42.0,161.0,2027.027027027027
+Salinas de Pisuerga,2,salinas de pisuerga,348.0,Palencia,34.0,158.0,574.7126436781609
+Sallent de Gállego,40,sallent de gallego,1505.0,Huesca,22.0,204.0,2657.8073089701
+Samos,5,samos,1158.0,Lugo,27.0,55.0,431.7789291882556
+San Amaro,1,san amaro,1030.0,Ourense,32.0,74.0,97.08737864077668
+San Andrés del Rabanedo,6,san andres del rabanedo,29944.0,León,24.0,142.0,20.03740315255143
+San Asensio,1,san asensio,1088.0,"Rioja, La",26.0,129.0,91.91176470588236
+San Cebrián de Campos,2,san cebrian de campos,400.0,Palencia,34.0,159.0,500.0
+San Cibrao das Viñas,4,san cibrao das vinas,5751.0,Ourense,32.0,75.0,69.55312119631368
+San Cristovo de Cea,2,san cristovo de cea,1963.0,Ourense,32.0,76.0,101.88487009679062
+San Cristóbal de Entreviñas,1,san cristobal de entrevinas,1328.0,Zamora,49.0,187.0,75.3012048192771
+San Emiliano,2,san emiliano,585.0,León,24.0,145.0,341.88034188034186
+San Esteban de Gormaz,3,san esteban de gormaz,2962.0,Soria,42.0,162.0,101.28291694800812
+San Esteban del Molar,2,san esteban del molar,117.0,Zamora,49.0,188.0,1709.4017094017092
+San Felices,0,san felices,55.0,Soria,42.0,163.0,0.0
+San Felices de Buelna,1,san felices de buelna,2379.0,Cantabria,39.0,69.0,42.034468263976464
+San Juan de Plan,1,san juan de plan,145.0,Huesca,22.0,207.0,689.6551724137931
+San Justo,1,san justo,207.0,Zamora,49.0,189.0,483.0917874396136
+San Leonardo de Yagüe,2,san leonardo de yague,1954.0,Soria,42.0,164.0,102.3541453428864
+San Martín de Unx,2,san martin de unx,352.0,Navarra,31.0,217.0,568.1818181818181
+San Martín del Rey Aurelio,12,san martin del rey aurelio,15531.0,Asturias,33.0,60.0,77.264825188333
+San Millán de la Cogolla,3,san millan de la cogolla,214.0,"Rioja, La",26.0,130.0,1401.8691588785048
+San Millán/Donemiliaga,2,san millan/donemiliaga,701.0,Araba/Álava,1.0,53.0,285.30670470756064
+San Pedro Manrique,1,san pedro manrique,626.0,Soria,42.0,165.0,159.7444089456869
+San Pedro del Romeral,2,san pedro del romeral,432.0,Cantabria,39.0,71.0,462.9629629629629
+San Román de Cameros,1,san roman de cameros,127.0,"Rioja, La",26.0,132.0,787.4015748031495
+San Roque de Riomiera,3,san roque de riomiera,333.0,Cantabria,39.0,72.0,900.9009009009008
+San Tirso de Abres,2,san tirso de abres,396.0,Asturias,33.0,63.0,505.0505050505051
+San Vicente de la Barquera,34,san vicente de la barquera,3995.0,Cantabria,39.0,80.0,851.063829787234
+San Vicente de la Sonsierra,4,san vicente de la sonsierra,1054.0,"Rioja, La",26.0,142.0,379.5066413662239
+San Vitero,1,san vitero,419.0,Zamora,49.0,209.0,238.6634844868735
+San Xoán de Río,0,san xoan de rio,510.0,Ourense,32.0,70.0,0.0
+Sandiás,0,sandias,1086.0,Ourense,32.0,77.0,0.0
+Sangüesa/Zangoza,3,sanguesa/zangoza,4883.0,Navarra,31.0,216.0,61.43764079459349
+Sansol,1,sansol,89.0,Navarra,31.0,219.0,1123.5955056179776
+Sant Antoni de Portmany,76,sant antoni de portmany,29132.0,"Balears, Illes",7.0,46.0,260.88150487436496
+Sant Joan,3,sant joan,2336.0,"Balears, Illes",7.0,49.0,128.4246575342466
+Sant Joan de Labritja,34,sant joan de labritja,7046.0,"Balears, Illes",7.0,50.0,482.54328697133127
+Sant Joan de Moró,3,sant joan de moro,3695.0,Castellón/Castelló,12.0,902.0,81.19079837618403
+Sant Jordi/San Jorge,2,sant jordi/san jorge,1554.0,Castellón/Castelló,12.0,99.0,128.7001287001287
+Sant Josep de sa Talaia,134,sant josep de sa talaia,29761.0,"Balears, Illes",7.0,48.0,450.25368771210645
+Sant Llorenç des Cardassar,46,sant llorenc des cardassar,9231.0,"Balears, Illes",7.0,51.0,498.32087531145055
+Sant Lluís,45,sant lluis,7312.0,"Balears, Illes",7.0,52.0,615.4266958424507
+Sant Mateu,5,sant mateu,2021.0,Castellón/Castelló,12.0,100.0,247.40227610094016
+Santa Cilia,1,santa cilia,244.0,Huesca,22.0,208.0,409.8360655737705
+Santa Colomba de Somoza,5,santa colomba de somoza,472.0,León,24.0,152.0,1059.322033898305
+Santa Cristina de Valmadrigal,1,santa cristina de valmadrigal,278.0,León,24.0,153.0,359.71223021582733
+Santa Cruz de Bezana,16,santa cruz de bezana,13904.0,Cantabria,39.0,73.0,115.07479861910242
+Santa Cruz de Mudela,5,santa cruz de mudela,3881.0,Ciudad Real,13.0,77.0,128.83277505797477
+Santa Cruz de Tenerife,237,santa cruz de tenerife,211957.0,Santa Cruz de Tenerife,38.0,38.0,111.81513231457323
+Santa Cruz de la Serós,3,santa cruz de la seros,193.0,Huesca,22.0,209.0,1554.4041450777202
+Santa Elena,6,santa elena,863.0,Jaén,23.0,76.0,695.2491309385863
+Santa Elena de Jamuz,3,santa elena de jamuz,1021.0,León,24.0,154.0,293.8295788442703
+Santa Eugènia,3,santa eugenia,1902.0,"Balears, Illes",7.0,53.0,157.72870662460568
+Santa Eulalia,1,santa eulalia,1004.0,Teruel,44.0,209.0,99.601593625498
+Santa Eulalia de Oscos,3,santa eulalia de oscos,420.0,Asturias,33.0,62.0,714.2857142857143
+Santa Eulària des Riu,138,santa eularia des riu,42479.0,"Balears, Illes",7.0,54.0,324.8664045763789
+Santa Margalida,69,santa margalida,14056.0,"Balears, Illes",7.0,55.0,490.89356858281167
+Santa María de Cayón,12,santa maria de cayon,9538.0,Cantabria,39.0,74.0,125.81253931641852
+Santa María de Dulcis,1,santa maria de dulcis,206.0,Huesca,22.0,906.0,485.4368932038834
+Santa María de Huerta,1,santa maria de huerta,239.0,Soria,42.0,167.0,418.41004184100416
+Santa María del Camí,16,santa maria del cami,7744.0,"Balears, Illes",7.0,56.0,206.61157024793388
+Santa María del Páramo,2,santa maria del paramo,2994.0,León,24.0,157.0,66.8002672010688
+Santander,255,santander,175425.0,Cantabria,39.0,75.0,145.3612654980761
+Santanyí,143,santanyi,13067.0,"Balears, Illes",7.0,57.0,1094.3598377592407
+Santiago Millas,2,santiago millas,350.0,León,24.0,161.0,571.4285714285714
+Santiago-Pontones,9,santiago-pontones,2629.0,Jaén,23.0,904.0,342.3354887790034
+Santibáñez de Vidriales,3,santibanez de vidriales,846.0,Zamora,49.0,206.0,354.60992907801415
+Santillana del Mar,37,santillana del mar,4189.0,Cantabria,39.0,76.0,883.2656958701361
+Santisteban del Puerto,1,santisteban del puerto,4451.0,Jaén,23.0,79.0,22.46686137946529
+Santiurde de Toranzo,1,santiurde de toranzo,1726.0,Cantabria,39.0,78.0,57.93742757821553
+Santo Adriano,1,santo adriano,281.0,Asturias,33.0,64.0,355.87188612099646
+Santo Domingo de la Calzada,16,santo domingo de la calzada,6441.0,"Rioja, La",26.0,138.0,248.40863219996896
+Santo Tomé,9,santo tome,2029.0,Jaén,23.0,80.0,443.5682602267127
+Santovenia,2,santovenia,219.0,Zamora,49.0,207.0,913.24200913242
+Santovenia de la Valdoncina,3,santovenia de la valdoncina,2058.0,León,24.0,162.0,145.7725947521866
+Santoña,21,santona,10835.0,Cantabria,39.0,79.0,193.81633594831564
+Santurtzi,17,santurtzi,46442.0,Bizkaia,48.0,82.0,36.60479738168038
+Sariego,1,sariego,1252.0,Asturias,33.0,65.0,79.87220447284345
+Sariegos,3,sariegos,5456.0,León,24.0,163.0,54.98533724340176
+Saro,1,saro,480.0,Cantabria,39.0,81.0,208.33333333333331
+Sarria,27,sarria,13726.0,Lugo,27.0,57.0,196.7069794550488
+Sarriés/Sartze,1,sarries/sartze,57.0,Navarra,31.0,222.0,1754.3859649122808
+Sarrión,3,sarrion,1261.0,Teruel,44.0,210.0,237.9064234734338
+Sartaguda,1,sartaguda,1349.0,Navarra,31.0,223.0,74.12898443291327
+Saúca,1,sauca,47.0,Guadalajara,19.0,251.0,2127.6595744680853
+Segorbe,6,segorbe,9805.0,Castellón/Castelló,12.0,104.0,61.19326874043856
+Segovia,90,segovia,52375.0,Segovia,40.0,194.0,171.8377088305489
+Segura,1,segura,1496.0,Gipuzkoa,20.0,70.0,66.84491978609626
+Segura de la Sierra,7,segura de la sierra,1711.0,Jaén,23.0,81.0,409.1174751607247
+Selaya,3,selaya,1868.0,Cantabria,39.0,82.0,160.59957173447538
+Selva,12,selva,4326.0,"Balears, Illes",7.0,58.0,277.3925104022192
+Sena de Luna,1,sena de luna,373.0,León,24.0,164.0,268.0965147453083
+Sencelles,4,sencelles,3973.0,"Balears, Illes",7.0,47.0,100.6795872136924
+Serón de Nágima,0,seron de nagima,125.0,Soria,42.0,171.0,0.0
+Sestao,16,sestao,28512.0,Bizkaia,48.0,84.0,56.116722783389456
+Sesué,0,sesue,120.0,Huesca,22.0,221.0,0.0
+Sevilla,813,sevilla,689423.0,Sevilla,41.0,91.0,117.92469935003618
+Siero,76,siero,53049.0,Asturias,33.0,66.0,143.26377500047127
+Sierra Engarcerán,3,sierra engarceran,1039.0,Castellón/Castelló,12.0,105.0,288.7391722810395
+Sigüenza,29,siguenza,4911.0,Guadalajara,19.0,257.0,590.5110975361433
+Siles,5,siles,2067.0,Jaén,23.0,82.0,241.89646831156264
+Sineu,18,sineu,4537.0,"Balears, Illes",7.0,60.0,396.7379325545514
+Siétamo,1,sietamo,697.0,Huesca,22.0,222.0,143.47202295552367
+Soba,5,soba,1057.0,Cantabria,39.0,83.0,473.0368968779565
+Sober,7,sober,2090.0,Lugo,27.0,59.0,334.9282296650718
+Sobrescobio,9,sobrescobio,838.0,Asturias,33.0,67.0,1073.985680190931
+Socuéllamos,1,socuellamos,12172.0,Ciudad Real,13.0,78.0,8.21557673348669
+Sojuela,1,sojuela,690.0,"Rioja, La",26.0,143.0,144.92753623188406
+Solana del Pino,1,solana del pino,333.0,Ciudad Real,13.0,80.0,300.3003003003003
+Somiedo,10,somiedo,1031.0,Asturias,33.0,68.0,969.9321047526672
+Son Servera,47,son servera,12417.0,"Balears, Illes",7.0,62.0,378.5133285012483
+Sondika,7,sondika,4670.0,Bizkaia,48.0,904.0,149.8929336188437
+Soneja,2,soneja,1521.0,Castellón/Castelló,12.0,106.0,131.49243918474687
+Sopela,9,sopela,15048.0,Bizkaia,48.0,85.0,59.80861244019139
+Sopuerta,4,sopuerta,2820.0,Bizkaia,48.0,86.0,141.84397163120568
+Soraluze-Placencia de las Armas,2,soraluze-placencia de las armas,3857.0,Gipuzkoa,20.0,65.0,51.85377236193933
+Soria,52,soria,41025.0,Soria,42.0,173.0,126.7519804996953
+Sorihuela del Guadalimar,1,sorihuela del guadalimar,1000.0,Jaén,23.0,84.0,100.0
+Sotillo del Rincón,2,sotillo del rincon,171.0,Soria,42.0,174.0,1169.5906432748538
+Soto del Barco,17,soto del barco,3801.0,Asturias,33.0,69.0,447.2507234938174
+Soto en Cameros,1,soto en cameros,82.0,"Rioja, La",26.0,146.0,1219.5121951219512
+Sotés,1,sotes,261.0,"Rioja, La",26.0,145.0,383.1417624521073
+Suances,24,suances,9034.0,Cantabria,39.0,85.0,265.6630506973655
+Sunbilla,1,sunbilla,672.0,Navarra,31.0,226.0,148.8095238095238
+Sóller,73,soller,13882.0,"Balears, Illes",7.0,61.0,525.8608269701772
+Taboada,0,taboada,2617.0,Lugo,27.0,60.0,0.0
+Tafalla,14,tafalla,10854.0,Navarra,31.0,227.0,128.98470609913397
+Tales,1,tales,827.0,Castellón/Castelló,12.0,109.0,120.91898428053204
+Tamajón,3,tamajon,153.0,Guadalajara,19.0,262.0,1960.7843137254904
+Tamarite de Litera,1,tamarite de litera,3464.0,Huesca,22.0,225.0,28.86836027713626
+Tapia de Casariego,8,tapia de casariego,3538.0,Asturias,33.0,70.0,226.11644997173545
+Taramundi,8,taramundi,545.0,Asturias,33.0,71.0,1467.8899082568807
+Taravilla,1,taravilla,38.0,Guadalajara,19.0,264.0,2631.578947368421
+Tardelcuende,1,tardelcuende,414.0,Soria,42.0,181.0,241.5458937198068
+Tariego de Cerrato,5,tariego de cerrato,504.0,Palencia,34.0,181.0,992.063492063492
+Tarragona,186,tarragona,143649.0,Tarragona,43.0,148.0,129.48227972349267
+Tella-Sin,4,tella-sin,208.0,Huesca,22.0,227.0,1923.0769230769235
+Tendilla,2,tendilla,353.0,Guadalajara,19.0,266.0,566.5722379603399
+Terroba,1,terroba,31.0,"Rioja, La",26.0,147.0,3225.8064516129034
+Teruel,34,teruel,36655.0,Teruel,44.0,216.0,92.7567862501705
+Teverga,9,teverga,1495.0,Asturias,33.0,72.0,602.0066889632108
+Tiebas-Muruarte de Reta,2,tiebas-muruarte de reta,693.0,Navarra,31.0,228.0,288.6002886002886
+Tierzo,0,tierzo,32.0,Guadalajara,19.0,268.0,0.0
+Tineo,14,tineo,8679.0,Asturias,33.0,73.0,161.30890655605484
+Tirgo,1,tirgo,167.0,"Rioja, La",26.0,148.0,598.8023952095808
+Todolella,1,todolella,136.0,Castellón/Castelló,12.0,112.0,735.2941176470588
+Toga,1,toga,106.0,Castellón/Castelló,12.0,113.0,943.3962264150944
+Toledo,189,toledo,87216.0,Toledo,45.0,168.0,216.7033571821684
+Tolosa,31,tolosa,20070.0,Gipuzkoa,20.0,71.0,154.45939212755357
+Tolva,1,tolva,130.0,Huesca,22.0,229.0,769.2307692307693
+Tomelloso,58,tomelloso,37060.0,Ciudad Real,13.0,82.0,156.50296815974096
+Toral de los Vados,1,toral de los vados,1751.0,León,24.0,206.0,57.110222729868646
+Toreno,1,toreno,2833.0,León,24.0,169.0,35.29827038475115
+Torija,4,torija,1877.0,Guadalajara,19.0,274.0,213.10602024507196
+Torla-Ordesa,11,torla-ordesa,342.0,Huesca,22.0,230.0,3216.374269005848
+Toro,10,toro,8336.0,Zamora,49.0,219.0,119.96161228406908
+Torquemada,2,torquemada,964.0,Palencia,34.0,182.0,207.4688796680498
+Torralba de Calatrava,1,torralba de calatrava,3068.0,Ciudad Real,13.0,83.0,32.59452411994785
+Torre del Compte,1,torre del compte,120.0,Teruel,44.0,225.0,833.3333333333334
+Torreblanca,7,torreblanca,5744.0,Castellón/Castelló,12.0,117.0,121.86629526462396
+Torreblascopedro,1,torreblascopedro,2382.0,Jaén,23.0,85.0,41.98152812762385
+Torrecilla en Cameros,2,torrecilla en cameros,474.0,"Rioja, La",26.0,151.0,421.94092827004215
+Torredelcampo,5,torredelcampo,13888.0,Jaén,23.0,86.0,36.00230414746544
+Torredonjimeno,2,torredonjimeno,13213.0,Jaén,23.0,87.0,15.136607886172708
+Torrejón del Rey,3,torrejon del rey,6435.0,Guadalajara,19.0,280.0,46.620046620046615
+Torrelacárcel,1,torrelacarcel,131.0,Teruel,44.0,226.0,763.3587786259542
+Torrelavega,57,torrelavega,51796.0,Cantabria,39.0,87.0,110.04710788477875
+Torremocha del Campo,3,torremocha del campo,193.0,Guadalajara,19.0,282.0,1554.4041450777202
+Torrente de Cinca,1,torrente de cinca,1037.0,Huesca,22.0,234.0,96.43201542912246
+Torreperogil,3,torreperogil,7107.0,Jaén,23.0,88.0,42.21190375685944
+Torres,2,torres,1328.0,Jaén,23.0,90.0,150.6024096385542
+Torres de Albánchez,2,torres de albanchez,735.0,Jaén,23.0,91.0,272.108843537415
+Torres del Río,1,torres del rio,116.0,Navarra,31.0,231.0,862.0689655172414
+Torrijo del Campo,1,torrijo del campo,501.0,Teruel,44.0,232.0,199.60079840319364
+Toén,2,toen,2327.0,Ourense,32.0,81.0,85.94757198109154
+Trabada,1,trabada,1070.0,Lugo,27.0,61.0,93.45794392523364
+Trabadelo,1,trabadelo,321.0,León,24.0,171.0,311.5264797507788
+Trabazos,2,trabazos,848.0,Zamora,49.0,223.0,235.8490566037736
+Traiguera,1,traiguera,1302.0,Castellón/Castelló,12.0,121.0,76.80491551459293
+Tramacastilla,1,tramacastilla,133.0,Teruel,44.0,235.0,751.8796992481203
+Trasmiras,2,trasmiras,1216.0,Ourense,32.0,82.0,164.4736842105263
+Trefacio,2,trefacio,163.0,Zamora,49.0,224.0,1226.993865030675
+Triacastela,7,triacastela,589.0,Lugo,27.0,62.0,1188.4550084889645
+Trillo,2,trillo,1406.0,Guadalajara,19.0,291.0,142.2475106685633
+Triollo,2,triollo,73.0,Palencia,34.0,185.0,2739.7260273972606
+Truchas,1,truchas,371.0,León,24.0,172.0,269.54177897574124
+Trucios-Turtzioz,2,trucios-turtzioz,515.0,Bizkaia,48.0,87.0,388.3495145631068
+Tudela,18,tudela,38903.0,Navarra,31.0,232.0,46.26892527568568
+Tulebras,1,tulebras,159.0,Navarra,31.0,233.0,628.9308176100628
+Tábara,3,tabara,743.0,Zamora,49.0,214.0,403.7685060565276
+Ubide,1,ubide,167.0,Bizkaia,48.0,88.0,598.8023952095808
+Ucar,1,ucar,194.0,Navarra,31.0,234.0,515.4639175257731
+Uceda,4,uceda,3400.0,Guadalajara,19.0,293.0,117.6470588235294
+Ucero,4,ucero,80.0,Soria,42.0,189.0,5000.0
+Udías,2,udias,960.0,Cantabria,39.0,90.0,208.33333333333331
+Ugao-Miraballes,1,ugao-miraballes,4213.0,Bizkaia,48.0,65.0,23.73605506764776
+Uharte Arakil,2,uharte arakil,770.0,Navarra,31.0,123.0,259.7402597402597
+Ujué/Uxue,3,ujue/uxue,168.0,Navarra,31.0,235.0,1785.7142857142856
+Ultzama,12,ultzama,1599.0,Navarra,31.0,236.0,750.4690431519699
+Urdazubi/Urdax,8,urdazubi/urdax,354.0,Navarra,31.0,239.0,2259.8870056497176
+Urduliz,6,urduliz,6128.0,Bizkaia,48.0,89.0,97.911227154047
+Urduña/Orduña,4,urduna/orduna,4247.0,Bizkaia,48.0,74.0,94.18412997409936
+Urkabustaiz,2,urkabustaiz,1470.0,Araba/Álava,1.0,54.0,136.0544217687075
+Urnieta,10,urnieta,6327.0,Gipuzkoa,20.0,72.0,158.05278963173697
+Urrea de Gaén,1,urrea de gaen,455.0,Teruel,44.0,237.0,219.78021978021977
+Urretxu,2,urretxu,6730.0,Gipuzkoa,20.0,77.0,29.71768202080238
+Usansolo,5,usansolo,4565.0,Bizkaia,48.0,916.0,109.5290251916758
+Usurbil,14,usurbil,6488.0,Gipuzkoa,20.0,73.0,215.7829839704069
+Utrillas,2,utrillas,3069.0,Teruel,44.0,238.0,65.16780710329098
+Uztárroz/Uztarroze,1,uztarroz/uztarroze,136.0,Navarra,31.0,247.0,735.2941176470588
+Val de San Vicente,16,val de san vicente,2775.0,Cantabria,39.0,95.0,576.5765765765766
+Valbona,1,valbona,187.0,Teruel,44.0,240.0,534.75935828877
+Valdealgorfa,1,valdealgorfa,581.0,Teruel,44.0,241.0,172.1170395869191
+Valdeavellano de Tera,1,valdeavellano de tera,222.0,Soria,42.0,191.0,450.4504504504504
+Valdecuenca,0,valdecuenca,33.0,Teruel,44.0,243.0,0.0
+Valdefresno,3,valdefresno,2362.0,León,24.0,175.0,127.01100762066046
+Valdegovía/Gaubea,5,valdegovia/gaubea,1064.0,Araba/Álava,1.0,55.0,469.9248120300752
+Valdelinares,3,valdelinares,82.0,Teruel,44.0,244.0,3658.5365853658536
+Valdeltormo,1,valdeltormo,304.0,Teruel,44.0,245.0,328.9473684210526
+Valdelugueros,1,valdelugueros,484.0,León,24.0,177.0,206.61157024793388
+Valdemaluque,2,valdemaluque,139.0,Soria,42.0,194.0,1438.848920863309
+Valdeolea,3,valdeolea,869.0,Cantabria,39.0,92.0,345.22439585730723
+Valdepeñas,15,valdepenas,30782.0,Ciudad Real,13.0,87.0,48.72977714248587
+Valdepeñas de Jaén,3,valdepenas de jaen,3469.0,Jaén,23.0,93.0,86.48025367541078
+Valdepiélago,1,valdepielago,306.0,León,24.0,179.0,326.79738562091507
+Valdepolo,2,valdepolo,1177.0,León,24.0,180.0,169.92353440951572
+Valdeprado del Río,1,valdeprado del rio,306.0,Cantabria,39.0,93.0,326.79738562091507
+Valderredible,5,valderredible,922.0,Cantabria,39.0,94.0,542.2993492407809
+Valderrobres,10,valderrobres,2555.0,Teruel,44.0,246.0,391.3894324853229
+Valderrueda,1,valderrueda,817.0,León,24.0,183.0,122.39902080783354
+Valdevimbre,4,valdevimbre,892.0,León,24.0,187.0,448.43049327354254
+Valdáliga,10,valdaliga,2135.0,Cantabria,39.0,91.0,468.384074941452
+Valdés,38,valdes,10776.0,Asturias,33.0,34.0,352.6354862657758
+Valencia de Don Juan,2,valencia de don juan,5103.0,León,24.0,188.0,39.19263178522438
+Valgañón,1,valganon,133.0,"Rioja, La",26.0,162.0,751.8796992481203
+Vall d'Alba,6,vall d'alba,3218.0,Castellón/Castelló,12.0,124.0,186.4512119328776
+Valladolid,338,valladolid,302614.0,Valladolid,47.0,186.0,111.69344445399088
+Valldemossa,17,valldemossa,2038.0,"Balears, Illes",7.0,63.0,834.1511285574093
+Valle de Egüés/Eguesibar,6,valle de egues/eguesibar,22825.0,Navarra,31.0,86.0,26.28696604600219
+Valle de Elorz/Elortzibar,5,valle de elorz/elortzibar,,,,,
+Valle de Hecho,5,valle de hecho,813.0,Huesca,22.0,901.0,615.0061500615006
+Valle de Trápaga-Trapagaran,26,valle de trapaga-trapagaran,11797.0,Bizkaia,48.0,80.0,220.39501568195303
+Valle de Villaverde,1,valle de villaverde,249.0,Cantabria,39.0,101.0,401.6064257028112
+Valle de Yerri/Deierri,5,valle de yerri/deierri,1549.0,Navarra,31.0,260.0,322.78889606197544
+Vallibona,1,vallibona,63.0,Castellón/Castelló,12.0,127.0,1587.3015873015872
+Valtierra,3,valtierra,2505.0,Navarra,31.0,249.0,119.76047904191616
+Valverde de la Virgen,7,valverde de la virgen,7936.0,León,24.0,189.0,88.20564516129032
+Valverde de los Arroyos,3,valverde de los arroyos,85.0,Guadalajara,19.0,311.0,3529.4117647058824
+València,1175,valencia,840792.0,Valencia/València,46.0,250.0,139.7491888600272
+Vega de Espinareda,3,vega de espinareda,2006.0,León,24.0,196.0,149.55134596211366
+Vega de Liébana,2,vega de liebana,676.0,Cantabria,39.0,96.0,295.85798816568047
+Vega de Pas,6,vega de pas,776.0,Cantabria,39.0,97.0,773.1958762886597
+Vega de Valcarce,5,vega de valcarce,555.0,León,24.0,198.0,900.9009009009008
+Vegacervera,6,vegacervera,246.0,León,24.0,194.0,2439.0243902439024
+Vegadeo,5,vegadeo,3928.0,Asturias,33.0,74.0,127.29124236252544
+Velilla del Río Carrión,5,velilla del rio carrion,1104.0,Palencia,34.0,199.0,452.8985507246377
+Venta de Baños,5,venta de banos,6372.0,Palencia,34.0,23.0,78.46829880728185
+Ventosa,1,ventosa,196.0,"Rioja, La",26.0,163.0,510.2040816326531
+Verín,7,verin,13956.0,Ourense,32.0,85.0,50.15763829177415
+Viacamp y Litera,1,viacamp y litera,40.0,Huesca,22.0,247.0,2500.0
+Viana,3,viana,4441.0,Navarra,31.0,251.0,67.55235307363206
+Viana do Bolo,2,viana do bolo,2715.0,Ourense,32.0,86.0,73.66482504604052
+Viguera,1,viguera,377.0,"Rioja, La",26.0,165.0,265.2519893899204
+Vila-real,32,vila-real,53623.0,Castellón/Castelló,12.0,135.0,59.67588534770528
+Vilablareix,1,vilablareix,4077.0,Girona,17.0,215.0,24.52783909737552
+Vilafamés,7,vilafames,1962.0,Castellón/Castelló,12.0,128.0,356.77879714576966
+Vilafranca de Bonany,3,vilafranca de bonany,3929.0,"Balears, Illes",7.0,65.0,76.35530669381522
+Vilafranca/Villafranca del Cid,2,vilafranca/villafranca del cid,2115.0,Castellón/Castelló,12.0,129.0,94.56264775413712
+Vilalba,16,vilalba,13852.0,Lugo,27.0,65.0,115.50678602367888
+Vilamartín de Valdeorras,3,vilamartin de valdeorras,1817.0,Ourense,32.0,88.0,165.10731975784262
+Vilamarín,2,vilamarin,1836.0,Ourense,32.0,87.0,108.93246187363832
+Vilar de Barrio,2,vilar de barrio,1178.0,Ourense,32.0,89.0,169.7792869269949
+Vilar de Santos,1,vilar de santos,784.0,Ourense,32.0,90.0,127.55102040816328
+Villablino,11,villablino,7585.0,León,24.0,202.0,145.02307185234014
+Villabona,2,villabona,5900.0,Gipuzkoa,20.0,75.0,33.898305084745765
+Villabrázaro,1,villabrazaro,255.0,Zamora,49.0,238.0,392.156862745098
+Villacarriedo,5,villacarriedo,1670.0,Cantabria,39.0,98.0,299.4011976047904
+Villacarrillo,4,villacarrillo,10342.0,Jaén,23.0,95.0,38.67723844517501
+Villaciervos,1,villaciervos,86.0,Soria,42.0,205.0,1162.7906976744189
+Villada,2,villada,863.0,Palencia,34.0,206.0,231.7497103128621
+Villadangos del Páramo,2,villadangos del paramo,1268.0,León,24.0,205.0,157.72870662460568
+Villadepera,0,villadepera,165.0,Zamora,49.0,240.0,0.0
+Villaescusa,2,villaescusa,3970.0,Cantabria,39.0,99.0,50.37783375314861
+Villaescusa,2,villaescusa,237.0,Zamora,49.0,241.0,843.8818565400843
+Villafranca,1,villafranca,3163.0,Navarra,31.0,254.0,31.61555485298767
+Villafranca del Bierzo,12,villafranca del bierzo,2591.0,León,24.0,209.0,463.1416441528368
+Villafranca del Campo,1,villafranca del campo,290.0,Teruel,44.0,251.0,344.82758620689657
+Villafáfila,2,villafafila,429.0,Zamora,49.0,242.0,466.20046620046617
+Villagatón,4,villagaton,611.0,León,24.0,210.0,654.6644844517185
+Villahermosa,0,villahermosa,1712.0,Ciudad Real,13.0,89.0,0.0
+Villahermosa del Río,2,villahermosa del rio,473.0,Castellón/Castelló,12.0,130.0,422.8329809725159
+Villaherreros,1,villaherreros,211.0,Palencia,34.0,211.0,473.9336492890996
+Villalazán,1,villalazan,241.0,Zamora,49.0,245.0,414.9377593360996
+Villalcázar de Sirga,2,villalcazar de sirga,160.0,Palencia,34.0,215.0,1250.0
+Villalpando,6,villalpando,1433.0,Zamora,49.0,250.0,418.702023726448
+Villamanín,2,villamanin,863.0,León,24.0,901.0,231.7497103128621
+Villamayor de Monjardín,1,villamayor de monjardin,115.0,Navarra,31.0,255.0,869.5652173913044
+Villamañán,1,villamanan,1084.0,León,24.0,212.0,92.25092250922508
+Villamediana de Iregua,2,villamediana de iregua,9263.0,"Rioja, La",26.0,168.0,21.591277124041888
+Villamejil,3,villamejil,653.0,León,24.0,214.0,459.4180704441041
+Villamuriel de Cerrato,0,villamuriel de cerrato,6501.0,Palencia,34.0,225.0,0.0
+Villanova,2,villanova,171.0,Huesca,22.0,249.0,1169.5906432748538
+Villanueva de Alcorón,1,villanueva de alcoron,140.0,Guadalajara,19.0,317.0,714.2857142857143
+Villanueva de Azoague,0,villanueva de azoague,398.0,Zamora,49.0,257.0,0.0
+Villanueva de Cameros,0,villanueva de cameros,68.0,"Rioja, La",26.0,169.0,0.0
+Villanueva de Oscos,1,villanueva de oscos,244.0,Asturias,33.0,75.0,409.8360655737705
+Villanueva de la Fuente,7,villanueva de la fuente,1831.0,Ciudad Real,13.0,92.0,382.30475150191154
+Villanueva de la Reina,2,villanueva de la reina,2941.0,Jaén,23.0,96.0,68.00408024481469
+Villanueva de las Manzanas,2,villanueva de las manzanas,484.0,León,24.0,218.0,413.22314049586777
+Villanueva de las Peras,1,villanueva de las peras,85.0,Zamora,49.0,259.0,1176.470588235294
+Villanueva de los Infantes,1,villanueva de los infantes,4733.0,Ciudad Real,13.0,93.0,21.12824846820199
+Villanueva de los Infantes,1,villanueva de los infantes,116.0,Valladolid,47.0,221.0,862.0689655172414
+Villanueva del Arzobispo,3,villanueva del arzobispo,7703.0,Jaén,23.0,97.0,38.94586524730624
+Villanueva del Campo,1,villanueva del campo,736.0,Zamora,49.0,260.0,135.8695652173913
+Villanázar,1,villanazar,256.0,Zamora,49.0,256.0,390.625
+Villanúa,4,villanua,570.0,Huesca,22.0,250.0,701.7543859649122
+Villaobispo de Otero,1,villaobispo de otero,514.0,León,24.0,219.0,194.5525291828794
+Villaquilambre,8,villaquilambre,18905.0,León,24.0,222.0,42.316847394869086
+Villar del Buey,2,villar del buey,483.0,Zamora,49.0,264.0,414.0786749482402
+Villaralbo,1,villaralbo,1782.0,Zamora,49.0,261.0,56.116722783389456
+Villardeciervos,1,villardeciervos,383.0,Zamora,49.0,262.0,261.0966057441253
+Villardompardo,2,villardompardo,893.0,Jaén,23.0,98.0,223.96416573348264
+Villares de Órbigo,1,villares de orbigo,557.0,León,24.0,224.0,179.53321364452424
+Villarluengo,1,villarluengo,159.0,Teruel,44.0,260.0,628.9308176100628
+Villarquemado,2,villarquemado,901.0,Teruel,44.0,261.0,221.97558268590453
+Villarramiel,1,villarramiel,782.0,Palencia,34.0,232.0,127.8772378516624
+Villarrubia de los Ojos,4,villarrubia de los ojos,9512.0,Ciudad Real,13.0,96.0,42.05214465937763
+Villarta de San Juan,0,villarta de san juan,2681.0,Ciudad Real,13.0,97.0,0.0
+Villasabariego,3,villasabariego,1155.0,León,24.0,225.0,259.7402597402598
+Villatorres,3,villatorres,4259.0,Jaén,23.0,903.0,70.43907020427329
+Villaturiel,2,villaturiel,1818.0,León,24.0,227.0,110.01100110011
+Villava/Atarrabia,2,villava/atarrabia,9928.0,Navarra,31.0,258.0,20.145044319097504
+Villaviciosa,62,villaviciosa,15379.0,Asturias,33.0,76.0,403.1471487092789
+Villaviudas,1,villaviudas,356.0,Palencia,34.0,238.0,280.8988764044944
+Villayón,3,villayon,1054.0,Asturias,33.0,77.0,284.6299810246679
+Villodrigo,2,villodrigo,96.0,Palencia,34.0,242.0,2083.333333333333
+Villoldo,2,villoldo,333.0,Palencia,34.0,243.0,600.6006006006006
+Villoslada de Cameros,1,villoslada de cameros,351.0,"Rioja, La",26.0,177.0,284.9002849002849
+Vinaròs,42,vinaros,30529.0,Castellón/Castelló,12.0,138.0,137.57410986275343
+Viniegra de Abajo,2,viniegra de abajo,81.0,"Rioja, La",26.0,178.0,2469.135802469136
+Vinuesa,12,vinuesa,826.0,Soria,42.0,215.0,1452.7845036319611
+Viso del Marqués,3,viso del marques,2091.0,Ciudad Real,13.0,98.0,143.47202295552367
+Vistabella del Maestrat,3,vistabella del maestrat,354.0,Castellón/Castelló,12.0,139.0,847.457627118644
+Vitoria-Gasteiz,242,vitoria-gasteiz,260699.0,Araba/Álava,1.0,59.0,92.827360289069
+Viveiro,44,viveiro,15120.0,Lugo,27.0,66.0,291.005291005291
+Viver,5,viver,1729.0,Castellón/Castelló,12.0,140.0,289.1844997108155
+Xermade,2,xermade,1665.0,Lugo,27.0,21.0,120.1201201201201
+Xert,3,xert,702.0,Castellón/Castelló,12.0,52.0,427.3504273504273
+Xinzo de Limia,4,xinzo de limia,9699.0,Ourense,32.0,32.0,41.24136508918445
+Xodos/Chodos,2,xodos/chodos,107.0,Castellón/Castelló,12.0,55.0,1869.1588785046729
+Xove,1,xove,3269.0,Lugo,27.0,25.0,30.59039461609055
+Yanguas,3,yanguas,104.0,Soria,42.0,218.0,2884.6153846153848
+Yebes,1,yebes,5637.0,Guadalajara,19.0,326.0,17.739932588256163
+Yebra de Basa,1,yebra de basa,155.0,Huesca,22.0,252.0,645.1612903225806
+Yernes y Tameza,1,yernes y tameza,134.0,Asturias,33.0,78.0,746.2686567164179
+Yesa,3,yesa,297.0,Navarra,31.0,261.0,1010.1010101010102
+Yunquera de Henares,2,yunquera de henares,4706.0,Guadalajara,19.0,331.0,42.49893752656184
+Yécora/Iekora,1,yecora/iekora,278.0,Araba/Álava,1.0,60.0,359.71223021582733
+Yésero,1,yesero,60.0,Huesca,22.0,253.0,1666.6666666666667
+Zaldibia,2,zaldibia,1761.0,Gipuzkoa,20.0,78.0,113.57183418512209
+Zalduondo,2,zalduondo,195.0,Araba/Álava,1.0,61.0,1025.6410256410256
+Zalla,5,zalla,8334.0,Bizkaia,48.0,96.0,59.99520038396928
+Zamora,61,zamora,59815.0,Zamora,49.0,275.0,101.981108417621
+Zamudio,12,zamudio,3442.0,Bizkaia,48.0,905.0,348.6345148169669
+Zaorejas,0,zaorejas,117.0,Guadalajara,19.0,333.0,0.0
+Zaragoza,889,zaragoza,693091.0,Zaragoza,50.0,297.0,128.2659852746609
+Zaratamo,1,zaratamo,1609.0,Bizkaia,48.0,97.0,62.15040397762586
+Zarautz,45,zarautz,23496.0,Gipuzkoa,20.0,79.0,191.5219611848825
+Zeanuri,2,zeanuri,1234.0,Bizkaia,48.0,24.0,162.07455429497568
+Zeberio,3,zeberio,1087.0,Bizkaia,48.0,25.0,275.9889604415824
+Zerain,4,zerain,284.0,Gipuzkoa,20.0,26.0,1408.4507042253522
+Zestoa,8,zestoa,3933.0,Gipuzkoa,20.0,27.0,203.4070683956268
+Zierbena,12,zierbena,1512.0,Bizkaia,48.0,913.0,793.6507936507936
+Zigoitia,2,zigoitia,1845.0,Araba/Álava,1.0,18.0,108.40108401084012
+Ziordia,2,ziordia,359.0,Navarra,31.0,73.0,557.1030640668524
+Ziortza-Bolibar,3,ziortza-bolibar,401.0,Bizkaia,48.0,915.0,748.1296758104738
+Zizur Mayor/Zizur Nagusia,3,zizur mayor/zizur nagusia,16510.0,Navarra,31.0,907.0,18.170805572380377
+Zizurkil,3,zizurkil,2976.0,Gipuzkoa,20.0,28.0,100.80645161290322
+Zorita de los Canes,1,zorita de los canes,72.0,Guadalajara,19.0,335.0,1388.888888888889
+Zorita del Maestrazgo,1,zorita del maestrazgo,118.0,Castellón/Castelló,12.0,141.0,847.457627118644
+Zubieta,2,zubieta,292.0,Navarra,31.0,263.0,684.9315068493152
+Zucaina,2,zucaina,171.0,Castellón/Castelló,12.0,142.0,1169.5906432748538
+Zugarramurdi,4,zugarramurdi,213.0,Navarra,31.0,264.0,1877.9342723004693
+Zuia,6,zuia,2350.0,Araba/Álava,1.0,63.0,255.31914893617025
+Zumaia,19,zumaia,10160.0,Gipuzkoa,20.0,81.0,187.00787401574803
+Zumarraga,4,zumarraga,9678.0,Gipuzkoa,20.0,80.0,41.3308534821244
+Zúñiga,1,zuniga,78.0,Navarra,31.0,265.0,1282.051282051282
+es Castell,35,es castell,,,,,
+l'Alcora,14,l'alcora,,,,,
+la Jana,1,la jana,,,,,
+la Llosa,2,la llosa,,,,,
+la Pobla Tornesa,3,la pobla tornesa,,,,,
+la Pobla de Benifassà,9,la pobla de benifassa,,,,,
+la Salzadella,1,la salzadella,,,,,
+la Serratella,1,la serratella,,,,,
+la Torre d'en Besora,2,la torre d'en besora,,,,,
+la Vall d'Uixó,11,la vall d'uixo,,,,,
+la Vilavella,1,la vilavella,,,,,
+les Alqueries/Alquerías del Niño Perdido,3,les alqueries/alquerias del nino perdido,,,,,
+les Coves de Vinromà,2,les coves de vinroma,,,,,
+les Useres/Useras,1,les useres/useras,,,,,
+ses Salines,39,ses salines,,,,,
+Ágreda,1,agreda,3133.0,Soria,42.0,4.0,31.91828917969997
+Ávila,63,avila,59107.0,Ávila,5.0,19.0,106.5863603295718
+Úbeda,35,ubeda,33588.0,Jaén,23.0,92.0,104.20388233893055

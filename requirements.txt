@@ -1,0 +1,27 @@
+# Core
+pandas
+numpy
+geopandas
+matplotlib
+seaborn
+jupyterlab # para explorar
+
+# Datos espaciales
+osmnx # Descarga datos OpenStreetMap
+contextily # Añade mapas base estáticos
+folium # Mapas interactivos
+plotly # Gráficos y mapas interactivos alternativos
+
+# Dashboard
+streamlit
+streamlit-folium # Integra folium en streamlit
+
+# Base de Datos
+sqlalchemy
+psycopg2-binary
+geoalchemy2
+
+# Utilidades
+requests
+tqdm
+python-dotenv
