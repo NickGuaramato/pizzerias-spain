@@ -6,4 +6,3 @@ streamlit-folium
 plotly
 matplotlib
 seaborn
-scikit-learn
