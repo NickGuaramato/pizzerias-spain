@@ -7,6 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 # Configuración de la página
 st.set_page_config(
@@ -22,11 +23,16 @@ st.markdown("---")
 # Cargar datos
 @st.cache_data
 def cargar_datos():
-    # Cargar análisis final (¡EL CORREGIDO!)
-    analisis = pd.read_csv("data/processed/analisis_pizzerias_municipios_final.csv")
+    # Obtener la ruta base del proyecto
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Cargar pizzerías con geometría
-    pizzerias = gpd.read_file("data/processed/pizzerias_con_municipio.gpkg")
+    # Construir rutas absolutas
+    csv_path = os.path.join(base_dir, "data/processed/analisis_pizzerias_municipios_final.csv")
+    gpkg_path = os.path.join(base_dir, "data/processed/pizzerias_con_municipio.gpkg")
+    
+    # Cargar archivos
+    analisis = pd.read_csv(csv_path)
+    pizzerias = gpd.read_file(gpkg_path)
     
     return analisis, pizzerias
 
