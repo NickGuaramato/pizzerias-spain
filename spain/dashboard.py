@@ -166,14 +166,15 @@ col_scatter, col_hist = st.columns(2)
 with col_scatter:
     st.subheader("Población vs Pizzerías")
     
+    # Crear scatter plot con línea de tendencia manual
     fig = px.scatter(
         analisis_filt,
         x='POB25',
         y='num_pizzerias',
         hover_data=['NAMEUNIT', 'PROVINCIA'],
         labels={'POB25': 'Población', 'num_pizzerias': 'Número de pizzerías'},
-        trendline='ols',
-        opacity=0.6
+        opacity=0.6,
+        trendline='lowess'  # Usa LOWESS en lugar de OLS (no necesita statsmodels)
     )
     
     fig.update_layout(
